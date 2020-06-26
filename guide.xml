@@ -24,7 +24,7 @@
     <display-name lang="pt">SPORT TV5 HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PT| BENFICA TV">
+  <channel id="BTV1">
     <display-name lang="pt">BTV1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
@@ -36,7 +36,7 @@
     <display-name lang="pt">ELEVEN SPORTS 2</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="NULL">
+  <channel id="NBA.pt">
     <display-name lang="pt">Sport TV NBA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
@@ -1042,301 +1042,301 @@
   <programme start="20200629230000 +0100" stop="20200630000000 +0100" channel="SportTV5.pt">
     <title lang="pt">Moto GP - Documentário - The Age of 27</title>
   </programme>
-  <programme start="20200626002700 +0100" stop="20200626021000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626002700 +0100" stop="20200626021000 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x Fonte Bastardo - Rep.</title>
   </programme>
-  <programme start="20200626021000 +0100" stop="20200626031100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626021000 +0100" stop="20200626031100 +0100" channel="BTV1">
     <title lang="pt">Grandes Adeptos SLB</title>
   </programme>
-  <programme start="20200626031100 +0100" stop="20200626042000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626031100 +0100" stop="20200626042000 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200626042000 +0100" stop="20200626060200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626042000 +0100" stop="20200626060200 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x GC Vilacondense - Rep.</title>
   </programme>
-  <programme start="20200626060200 +0100" stop="20200626062700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626060200 +0100" stop="20200626062700 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20200626062700 +0100" stop="20200626065700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626062700 +0100" stop="20200626065700 +0100" channel="BTV1">
     <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
   </programme>
-  <programme start="20200626065700 +0100" stop="20200626073000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626065700 +0100" stop="20200626073000 +0100" channel="BTV1">
     <title lang="pt">As Regras dos Jogos</title>
   </programme>
-  <programme start="20200626073000 +0100" stop="20200626080000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626073000 +0100" stop="20200626080000 +0100" channel="BTV1">
     <title lang="pt">Quiosque TV</title>
   </programme>
-  <programme start="20200626080000 +0100" stop="20200626083100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626080000 +0100" stop="20200626083100 +0100" channel="BTV1">
     <title lang="pt">Os Momentos + Incríveis do Desporto</title>
   </programme>
-  <programme start="20200626083100 +0100" stop="20200626090300 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626083100 +0100" stop="20200626090300 +0100" channel="BTV1">
     <title lang="pt">Eu Falo, Tu Discordas</title>
   </programme>
-  <programme start="20200626090300 +0100" stop="20200626100500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626090300 +0100" stop="20200626100500 +0100" channel="BTV1">
     <title lang="pt">Aquecimento</title>
   </programme>
-  <programme start="20200626100500 +0100" stop="20200626103000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626100500 +0100" stop="20200626103000 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20200626103000 +0100" stop="20200626120800 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626103000 +0100" stop="20200626120800 +0100" channel="BTV1">
     <title lang="pt">Futsal Feminino - SLB x Novasemente - Rep.</title>
   </programme>
-  <programme start="20200626120800 +0100" stop="20200626135500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626120800 +0100" stop="20200626135500 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x Castêlo Maia - Rep.</title>
   </programme>
-  <programme start="20200626135500 +0100" stop="20200626142000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626135500 +0100" stop="20200626142000 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20200626142000 +0100" stop="20200626153900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626142000 +0100" stop="20200626153900 +0100" channel="BTV1">
     <title lang="pt">Futsal Feminino - SLB x Sta. Luzia - Rep.</title>
   </programme>
-  <programme start="20200626153900 +0100" stop="20200626155300 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626153900 +0100" stop="20200626155300 +0100" channel="BTV1">
     <title lang="pt">Fundação Benfica</title>
   </programme>
-  <programme start="20200626155300 +0100" stop="20200626162100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626155300 +0100" stop="20200626162100 +0100" channel="BTV1">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20200626162100 +0100" stop="20200626172100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626162100 +0100" stop="20200626172100 +0100" channel="BTV1">
     <title lang="pt">Aquecimento</title>
   </programme>
-  <programme start="20200626172100 +0100" stop="20200626175300 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626172100 +0100" stop="20200626175300 +0100" channel="BTV1">
     <title lang="pt">Quiosque TV</title>
   </programme>
-  <programme start="20200626175300 +0100" stop="20200626182400 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626175300 +0100" stop="20200626182400 +0100" channel="BTV1">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20200626182400 +0100" stop="20200626185700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626182400 +0100" stop="20200626185700 +0100" channel="BTV1">
     <title lang="pt">Uma Semana do Melhor</title>
   </programme>
-  <programme start="20200626185700 +0100" stop="20200626202400 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626185700 +0100" stop="20200626202400 +0100" channel="BTV1">
     <title lang="pt">Basquetebol - Spirou Charleroi Basket x SLB - Rep.</title>
   </programme>
-  <programme start="20200626202400 +0100" stop="20200626205200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626202400 +0100" stop="20200626205200 +0100" channel="BTV1">
     <title lang="pt">Pelas Casas do Benfica</title>
   </programme>
-  <programme start="20200626205200 +0100" stop="20200626212000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626205200 +0100" stop="20200626212000 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200626212000 +0100" stop="20200626222000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626212000 +0100" stop="20200626222000 +0100" channel="BTV1">
     <title lang="pt">Agenda Desportiva</title>
   </programme>
-  <programme start="20200626222000 +0100" stop="20200626235200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626222000 +0100" stop="20200626235200 +0100" channel="BTV1">
     <title lang="pt">Futsal Feminino - SLB x Novasemente - Rep.</title>
   </programme>
-  <programme start="20200626235200 +0100" stop="20200627001700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200626235200 +0100" stop="20200627001700 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20200627001700 +0100" stop="20200627013000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627001700 +0100" stop="20200627013000 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x GC Vilacondense - Rep.</title>
   </programme>
-  <programme start="20200627013000 +0100" stop="20200627020400 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627013000 +0100" stop="20200627020400 +0100" channel="BTV1">
     <title lang="pt">Uma Semana do Melhor</title>
   </programme>
-  <programme start="20200627020400 +0100" stop="20200627023200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627020400 +0100" stop="20200627023200 +0100" channel="BTV1">
     <title lang="pt">De Casa Para Casa</title>
   </programme>
-  <programme start="20200627023200 +0100" stop="20200627025700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627023200 +0100" stop="20200627025700 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20200627025700 +0100" stop="20200627035800 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627025700 +0100" stop="20200627035800 +0100" channel="BTV1">
     <title lang="pt">Agenda Desportiva</title>
   </programme>
-  <programme start="20200627035800 +0100" stop="20200627055500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627035800 +0100" stop="20200627055500 +0100" channel="BTV1">
     <title lang="pt">Futsal - AD Fundão x SLB - Rep.</title>
   </programme>
-  <programme start="20200627055500 +0100" stop="20200627062000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627055500 +0100" stop="20200627062000 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20200627062000 +0100" stop="20200627065100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627062000 +0100" stop="20200627065100 +0100" channel="BTV1">
     <title lang="pt">Os Momentos + Incríveis do Desporto</title>
   </programme>
-  <programme start="20200627065100 +0100" stop="20200627082500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627065100 +0100" stop="20200627082500 +0100" channel="BTV1">
     <title lang="pt">Basquetebol - SLB x FC Porto - Rep.</title>
   </programme>
-  <programme start="20200627082500 +0100" stop="20200627085900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627082500 +0100" stop="20200627085900 +0100" channel="BTV1">
     <title lang="pt">Uma Semana do Melhor</title>
   </programme>
-  <programme start="20200627085900 +0100" stop="20200627095900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627085900 +0100" stop="20200627095900 +0100" channel="BTV1">
     <title lang="pt">Agenda Desportiva</title>
   </programme>
-  <programme start="20200627095900 +0100" stop="20200627102400 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627095900 +0100" stop="20200627102400 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20200627102400 +0100" stop="20200627114400 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627102400 +0100" stop="20200627114400 +0100" channel="BTV1">
     <title lang="pt">Futsal Feminino - SLB x Sta. Luzia - Rep.</title>
   </programme>
-  <programme start="20200627114400 +0100" stop="20200627131900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627114400 +0100" stop="20200627131900 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x Fonte Bastardo - Rep.</title>
   </programme>
-  <programme start="20200627131900 +0100" stop="20200627134700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627131900 +0100" stop="20200627134700 +0100" channel="BTV1">
     <title lang="pt">Corporate Club</title>
   </programme>
-  <programme start="20200627134700 +0100" stop="20200627141200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627134700 +0100" stop="20200627141200 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20200627141200 +0100" stop="20200627160000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627141200 +0100" stop="20200627160000 +0100" channel="BTV1">
     <title lang="pt">UEFA Youth League - SLB x RB Leipzig - Rep.</title>
   </programme>
-  <programme start="20200627160000 +0100" stop="20200627174500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627160000 +0100" stop="20200627174500 +0100" channel="BTV1">
     <title lang="pt">UEFA Youth League - Zenit x SLB - Rep.</title>
   </programme>
-  <programme start="20200627174500 +0100" stop="20200627181700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627174500 +0100" stop="20200627181700 +0100" channel="BTV1">
     <title lang="pt">Off Road Magazine</title>
   </programme>
-  <programme start="20200627181700 +0100" stop="20200627183000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627181700 +0100" stop="20200627183000 +0100" channel="BTV1">
     <title lang="pt">Fundação Benfica</title>
   </programme>
-  <programme start="20200627183000 +0100" stop="20200627190500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627183000 +0100" stop="20200627190500 +0100" channel="BTV1">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20200627190500 +0100" stop="20200627202600 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627190500 +0100" stop="20200627202600 +0100" channel="BTV1">
     <title lang="pt">Futsal Feminino - Vermoim x SLB - Rep.</title>
   </programme>
-  <programme start="20200627202600 +0100" stop="20200627205900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627202600 +0100" stop="20200627205900 +0100" channel="BTV1">
     <title lang="pt">Uma Semana do Melhor</title>
   </programme>
-  <programme start="20200627205900 +0100" stop="20200627212900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627205900 +0100" stop="20200627212900 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200627212900 +0100" stop="20200627232000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627212900 +0100" stop="20200627232000 +0100" channel="BTV1">
     <title lang="pt">UEFA Youth League - Lyon x SLB - Rep.</title>
   </programme>
-  <programme start="20200627232000 +0100" stop="20200627235900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627232000 +0100" stop="20200627235900 +0100" channel="BTV1">
     <title lang="pt">Uma Semana do Melhor</title>
   </programme>
-  <programme start="20200627235900 +0100" stop="20200628002900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200627235900 +0100" stop="20200628002900 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200628002900 +0100" stop="20200628014500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628002900 +0100" stop="20200628014500 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x Marítimo - Rep.</title>
   </programme>
-  <programme start="20200628014500 +0100" stop="20200628021500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628014500 +0100" stop="20200628021500 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200628021500 +0100" stop="20200628034900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628021500 +0100" stop="20200628034900 +0100" channel="BTV1">
     <title lang="pt">Futsal - SLB x Sporting - Rep.</title>
   </programme>
-  <programme start="20200628034900 +0100" stop="20200628042100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628034900 +0100" stop="20200628042100 +0100" channel="BTV1">
     <title lang="pt">Quiosque TV</title>
   </programme>
-  <programme start="20200628042100 +0100" stop="20200628045600 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628042100 +0100" stop="20200628045600 +0100" channel="BTV1">
     <title lang="pt">Uma Semana do Melhor</title>
   </programme>
-  <programme start="20200628045600 +0100" stop="20200628052600 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628045600 +0100" stop="20200628052600 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200628052600 +0100" stop="20200628065200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628052600 +0100" stop="20200628065200 +0100" channel="BTV1">
     <title lang="pt">Basquetebol - SLB x CAB Madeira - Rep.</title>
   </programme>
-  <programme start="20200628065200 +0100" stop="20200628073100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628065200 +0100" stop="20200628073100 +0100" channel="BTV1">
     <title lang="pt">Corporate Club</title>
   </programme>
-  <programme start="20200628073100 +0100" stop="20200628095900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628073100 +0100" stop="20200628095900 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x Espinho - Rep.</title>
   </programme>
-  <programme start="20200628095900 +0100" stop="20200628102900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628095900 +0100" stop="20200628102900 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200628102900 +0100" stop="20200628120300 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628102900 +0100" stop="20200628120300 +0100" channel="BTV1">
     <title lang="pt">Futsal Feminino - SLB x Novasemente - Rep.</title>
   </programme>
-  <programme start="20200628120300 +0100" stop="20200628141900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628120300 +0100" stop="20200628141900 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x Fonte Bastardo - Rep.</title>
   </programme>
-  <programme start="20200628141900 +0100" stop="20200628144800 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628141900 +0100" stop="20200628144800 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200628144800 +0100" stop="20200628152200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628144800 +0100" stop="20200628152200 +0100" channel="BTV1">
     <title lang="pt">Uma Semana do Melhor</title>
   </programme>
-  <programme start="20200628152200 +0100" stop="20200628171300 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628152200 +0100" stop="20200628171300 +0100" channel="BTV1">
     <title lang="pt">UEFA Youth League - Lyon x SLB - Rep.</title>
   </programme>
-  <programme start="20200628171300 +0100" stop="20200628185600 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628171300 +0100" stop="20200628185600 +0100" channel="BTV1">
     <title lang="pt">UEFA Youth League - RB Leipzig x SLB - Rep.</title>
   </programme>
-  <programme start="20200628185600 +0100" stop="20200628203700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628185600 +0100" stop="20200628203700 +0100" channel="BTV1">
     <title lang="pt">UEFA Youth League - SLB x Zenit - Rep.</title>
   </programme>
-  <programme start="20200628203700 +0100" stop="20200628205900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628203700 +0100" stop="20200628205900 +0100" channel="BTV1">
     <title lang="pt">Salão de Jogos</title>
   </programme>
-  <programme start="20200628205900 +0100" stop="20200628213600 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628205900 +0100" stop="20200628213600 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200628213600 +0100" stop="20200628231700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628213600 +0100" stop="20200628231700 +0100" channel="BTV1">
     <title lang="pt">UEFA Youth League - SLB x Liverpool - Rep.</title>
   </programme>
-  <programme start="20200628231700 +0100" stop="20200628234500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628231700 +0100" stop="20200628234500 +0100" channel="BTV1">
     <title lang="pt">Corporate Club</title>
   </programme>
-  <programme start="20200628234500 +0100" stop="20200628235100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628234500 +0100" stop="20200628235100 +0100" channel="BTV1">
     <title lang="pt">Fundação Benfica</title>
   </programme>
-  <programme start="20200628235100 +0100" stop="20200628235900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628235100 +0100" stop="20200628235900 +0100" channel="BTV1">
     <title lang="pt">Outras Modalidades</title>
   </programme>
-  <programme start="20200628235900 +0100" stop="20200629003600 +0100" channel="PT| BENFICA TV">
+  <programme start="20200628235900 +0100" stop="20200629003600 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200629003600 +0100" stop="20200629021500 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629003600 +0100" stop="20200629021500 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x Fonte Bastardo - Rep.</title>
   </programme>
-  <programme start="20200629021500 +0100" stop="20200629025300 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629021500 +0100" stop="20200629025300 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200629025300 +0100" stop="20200629041700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629025300 +0100" stop="20200629041700 +0100" channel="BTV1">
     <title lang="pt">Futsal - SLB x CCRD Burinhosa - Rep.</title>
   </programme>
-  <programme start="20200629041700 +0100" stop="20200629053400 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629041700 +0100" stop="20200629053400 +0100" channel="BTV1">
     <title lang="pt">Voleibol - SLB x Marítimo - Rep.</title>
   </programme>
-  <programme start="20200629053400 +0100" stop="20200629061100 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629053400 +0100" stop="20200629061100 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200629061100 +0100" stop="20200629075900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629061100 +0100" stop="20200629075900 +0100" channel="BTV1">
     <title lang="pt">Basquetebol - SLB x ZZ Leiden - Rep.</title>
   </programme>
-  <programme start="20200629075900 +0100" stop="20200629095900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629075900 +0100" stop="20200629095900 +0100" channel="BTV1">
     <title lang="pt">UEFA Youth League - SLB x RB Leipzig - Rep.</title>
   </programme>
-  <programme start="20200629095900 +0100" stop="20200629103700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629095900 +0100" stop="20200629103700 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200629103700 +0100" stop="20200629110800 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629103700 +0100" stop="20200629110800 +0100" channel="BTV1">
     <title lang="pt">Quiosque TV</title>
   </programme>
-  <programme start="20200629110800 +0100" stop="20200629122900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629110800 +0100" stop="20200629122900 +0100" channel="BTV1">
     <title lang="pt">Futsal Feminino - Vermoim x SLB - Rep.</title>
   </programme>
-  <programme start="20200629122900 +0100" stop="20200629130000 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629122900 +0100" stop="20200629130000 +0100" channel="BTV1">
     <title lang="pt">Os Momentos + Incríveis do Desporto</title>
   </programme>
-  <programme start="20200629130000 +0100" stop="20200629133600 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629130000 +0100" stop="20200629133600 +0100" channel="BTV1">
     <title lang="pt">As Regras dos Jogos</title>
   </programme>
-  <programme start="20200629133600 +0100" stop="20200629140900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629133600 +0100" stop="20200629140900 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200629140900 +0100" stop="20200629151200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629140900 +0100" stop="20200629151200 +0100" channel="BTV1">
     <title lang="pt">Segunda Bola</title>
   </programme>
-  <programme start="20200629151200 +0100" stop="20200629154300 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629151200 +0100" stop="20200629154300 +0100" channel="BTV1">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20200629154300 +0100" stop="20200629205900 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629154300 +0100" stop="20200629205900 +0100" channel="BTV1">
     <title lang="pt">Liga NOS - Marítimo x SLB - Emissão Especial</title>
   </programme>
-  <programme start="20200629205900 +0100" stop="20200629213200 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629205900 +0100" stop="20200629213200 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20200629213200 +0100" stop="20200629223300 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629213200 +0100" stop="20200629223300 +0100" channel="BTV1">
     <title lang="pt">Chama Imensa BTV</title>
   </programme>
-  <programme start="20200629223300 +0100" stop="20200629233400 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629223300 +0100" stop="20200629233400 +0100" channel="BTV1">
     <title lang="pt">Segunda Bola</title>
   </programme>
-  <programme start="20200629233400 +0100" stop="20200630000700 +0100" channel="PT| BENFICA TV">
+  <programme start="20200629233400 +0100" stop="20200630000700 +0100" channel="BTV1">
     <title lang="pt">As Regras dos Jogos</title>
   </programme>
   <programme start="20200626003000 +0100" stop="20200626010000 +0100" channel="ElevenSports1.pt">
@@ -2080,181 +2080,181 @@
   <programme start="20200629230000 +0100" stop="20200630000000 +0100" channel="ElevenSports2.pt">
     <title lang="pt">La Liga Highlights</title>
   </programme>
-  <programme start="20200626010000 +0100" stop="20200626013000 +0100" channel="NULL">
+  <programme start="20200626010000 +0100" stop="20200626013000 +0100" channel="NBA.pt">
     <title lang="pt">Work From Home With The New Orleans Pelicans</title>
   </programme>
-  <programme start="20200626013000 +0100" stop="20200626020000 +0100" channel="NULL">
+  <programme start="20200626013000 +0100" stop="20200626020000 +0100" channel="NBA.pt">
     <title lang="pt">NBA Together With Carmelo Anthony</title>
   </programme>
-  <programme start="20200626020000 +0100" stop="20200626030000 +0100" channel="NULL">
+  <programme start="20200626020000 +0100" stop="20200626030000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200626030000 +0100" stop="20200626050000 +0100" channel="NULL">
+  <programme start="20200626030000 +0100" stop="20200626050000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Jazz x Rockets - 1997 - West Finals Game 6</title>
   </programme>
-  <programme start="20200626050000 +0100" stop="20200626060000 +0100" channel="NULL">
+  <programme start="20200626050000 +0100" stop="20200626060000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200626060000 +0100" stop="20200626070000 +0100" channel="NULL">
+  <programme start="20200626060000 +0100" stop="20200626070000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Knicks x Celtics - 1St Round - Game 2</title>
   </programme>
-  <programme start="20200626070000 +0100" stop="20200626080000 +0100" channel="NULL">
+  <programme start="20200626070000 +0100" stop="20200626080000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Mavericks x Thunder - West Finals - Game 3</title>
   </programme>
-  <programme start="20200626080000 +0100" stop="20200626090000 +0100" channel="NULL">
+  <programme start="20200626080000 +0100" stop="20200626090000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200626090000 +0100" stop="20200626110000 +0100" channel="NULL">
+  <programme start="20200626090000 +0100" stop="20200626110000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Jazz x Supersonics - 1993 1St Round Game 5</title>
   </programme>
-  <programme start="20200626110000 +0100" stop="20200626130000 +0100" channel="NULL">
+  <programme start="20200626110000 +0100" stop="20200626130000 +0100" channel="NBA.pt">
     <title lang="pt">Marquee Matchup - Pacers x Knicks - November 20, 2013</title>
   </programme>
-  <programme start="20200626130000 +0100" stop="20200626140000 +0100" channel="NULL">
+  <programme start="20200626130000 +0100" stop="20200626140000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200626140000 +0100" stop="20200626160000 +0100" channel="NULL">
+  <programme start="20200626140000 +0100" stop="20200626160000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Jazz x Supersonics - 2000 1St Round Game 4</title>
   </programme>
-  <programme start="20200626160000 +0100" stop="20200626180000 +0100" channel="NULL">
+  <programme start="20200626160000 +0100" stop="20200626180000 +0100" channel="NBA.pt">
     <title lang="pt">Marquee Matchup - Heat x Cavaliers - November 27, 2013</title>
   </programme>
-  <programme start="20200626180000 +0100" stop="20200626190000 +0100" channel="NULL">
+  <programme start="20200626180000 +0100" stop="20200626190000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200626190000 +0100" stop="20200626210000 +0100" channel="NULL">
+  <programme start="20200626190000 +0100" stop="20200626210000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Raptors x Sixers - 2001 East Semis Game 7</title>
   </programme>
-  <programme start="20200626210000 +0100" stop="20200626213000 +0100" channel="NULL">
+  <programme start="20200626210000 +0100" stop="20200626213000 +0100" channel="NBA.pt">
     <title lang="pt">NBA Together With Griffin, Cash, Pierce, Gentry</title>
   </programme>
-  <programme start="20200626213000 +0100" stop="20200626220000 +0100" channel="NULL">
+  <programme start="20200626213000 +0100" stop="20200626220000 +0100" channel="NBA.pt">
     <title lang="pt">NBA Together With Malcolm Brogdon</title>
   </programme>
-  <programme start="20200626220000 +0100" stop="20200627000000 +0100" channel="NULL">
+  <programme start="20200626220000 +0100" stop="20200627000000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Rockets x Celtics - 1986 NBA Finals - Game 6</title>
   </programme>
-  <programme start="20200627000000 +0100" stop="20200627010000 +0100" channel="NULL">
+  <programme start="20200627000000 +0100" stop="20200627010000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Mavericks x Trail Blazers - 1St Round - Game 4</title>
   </programme>
-  <programme start="20200627010000 +0100" stop="20200627020000 +0100" channel="NULL">
+  <programme start="20200627010000 +0100" stop="20200627020000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Mavericks x Thunder - West Finals - Game 4</title>
   </programme>
-  <programme start="20200627020000 +0100" stop="20200627030000 +0100" channel="NULL">
+  <programme start="20200627020000 +0100" stop="20200627030000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200627030000 +0100" stop="20200627040000 +0100" channel="NULL">
+  <programme start="20200627030000 +0100" stop="20200627040000 +0100" channel="NBA.pt">
     <title lang="pt">Open Court: Rivers, Nurse, Gentry, Van Gundy &amp; Mitchell</title>
   </programme>
-  <programme start="20200627040000 +0100" stop="20200627060000 +0100" channel="NULL">
+  <programme start="20200627040000 +0100" stop="20200627060000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Spurs x Heat - 2013 NBA Finals - Game 7</title>
   </programme>
-  <programme start="20200627060000 +0100" stop="20200627080000 +0100" channel="NULL">
+  <programme start="20200627060000 +0100" stop="20200627080000 +0100" channel="NBA.pt">
     <title lang="pt">Marquee Matchup - Heat x Cavaliers - November 27, 2013</title>
   </programme>
-  <programme start="20200627080000 +0100" stop="20200627090000 +0100" channel="NULL">
+  <programme start="20200627080000 +0100" stop="20200627090000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200627090000 +0100" stop="20200627110000 +0100" channel="NULL">
+  <programme start="20200627090000 +0100" stop="20200627110000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Raptors x Sixers - 2001 East Semis Game 7</title>
   </programme>
-  <programme start="20200627110000 +0100" stop="20200627120000 +0100" channel="NULL">
+  <programme start="20200627110000 +0100" stop="20200627120000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200627120000 +0100" stop="20200627140000 +0100" channel="NULL">
+  <programme start="20200627120000 +0100" stop="20200627140000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Rockets x Celtics - 1986 NBA Finals - Game 6</title>
   </programme>
-  <programme start="20200627140000 +0100" stop="20200627150000 +0100" channel="NULL">
+  <programme start="20200627140000 +0100" stop="20200627150000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Mavericks x Trail Blazers - 1St Round - Game 4</title>
   </programme>
-  <programme start="20200627150000 +0100" stop="20200627160000 +0100" channel="NULL">
+  <programme start="20200627150000 +0100" stop="20200627160000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Mavericks x Thunder - West Finals - Game 4</title>
   </programme>
-  <programme start="20200627160000 +0100" stop="20200627170000 +0100" channel="NULL">
+  <programme start="20200627160000 +0100" stop="20200627170000 +0100" channel="NBA.pt">
     <title lang="pt">NBA GameTime</title>
   </programme>
-  <programme start="20200627170000 +0100" stop="20200627180000 +0100" channel="NULL">
+  <programme start="20200627170000 +0100" stop="20200627180000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Magic x Hawks - 1St Round - Game 3</title>
   </programme>
-  <programme start="20200627180000 +0100" stop="20200627190000 +0100" channel="NULL">
+  <programme start="20200627180000 +0100" stop="20200627190000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Magic x Hawks - 1St Round - Game 6</title>
   </programme>
-  <programme start="20200627190000 +0100" stop="20200627193000 +0100" channel="NULL">
+  <programme start="20200627190000 +0100" stop="20200627193000 +0100" channel="NBA.pt">
     <title lang="pt">Work From Home With The New Orleans Pelicans</title>
   </programme>
-  <programme start="20200627193000 +0100" stop="20200627200000 +0100" channel="NULL">
+  <programme start="20200627193000 +0100" stop="20200627200000 +0100" channel="NBA.pt">
     <title lang="pt">NBA Together With Brad Stevens</title>
   </programme>
-  <programme start="20200627200000 +0100" stop="20200627220000 +0100" channel="NULL">
+  <programme start="20200627200000 +0100" stop="20200627220000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Rockets x Sixers - January 15, 2002</title>
   </programme>
-  <programme start="20200627220000 +0100" stop="20200628000000 +0100" channel="NULL">
+  <programme start="20200627220000 +0100" stop="20200628000000 +0100" channel="NBA.pt">
     <title lang="pt">Marquee Matchup - Pacers x Trail Blazers - December 2, 2013</title>
   </programme>
-  <programme start="20200628000000 +0100" stop="20200628020000 +0100" channel="NULL">
+  <programme start="20200628000000 +0100" stop="20200628020000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Celtics x Lakers - 2010 NBA Finals - Game 7</title>
   </programme>
-  <programme start="20200628020000 +0100" stop="20200628040000 +0100" channel="NULL">
+  <programme start="20200628020000 +0100" stop="20200628040000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Rockets x Supersonics - 1993 - West Semis Game 7</title>
   </programme>
-  <programme start="20200628040000 +0100" stop="20200628050000 +0100" channel="NULL">
+  <programme start="20200628040000 +0100" stop="20200628050000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Magic x Hawks - 1St Round - Game 3</title>
   </programme>
-  <programme start="20200628050000 +0100" stop="20200628060000 +0100" channel="NULL">
+  <programme start="20200628050000 +0100" stop="20200628060000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Magic x Hawks - 1St Round - Game 6</title>
   </programme>
-  <programme start="20200628060000 +0100" stop="20200628080000 +0100" channel="NULL">
+  <programme start="20200628060000 +0100" stop="20200628080000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Lakers x Pistons - 2004 NBA Finals - Game 5</title>
   </programme>
-  <programme start="20200628080000 +0100" stop="20200628100000 +0100" channel="NULL">
+  <programme start="20200628080000 +0100" stop="20200628100000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Rockets x Sixers - January 15, 2002</title>
   </programme>
-  <programme start="20200628100000 +0100" stop="20200628103000 +0100" channel="NULL">
+  <programme start="20200628100000 +0100" stop="20200628103000 +0100" channel="NBA.pt">
     <title lang="pt">Work From Home With The New Orleans Pelicans</title>
   </programme>
-  <programme start="20200628103000 +0100" stop="20200628110000 +0100" channel="NULL">
+  <programme start="20200628103000 +0100" stop="20200628110000 +0100" channel="NBA.pt">
     <title lang="pt">NBA Together With Carmelo Anthony</title>
   </programme>
-  <programme start="20200628110000 +0100" stop="20200628130000 +0100" channel="NULL">
+  <programme start="20200628110000 +0100" stop="20200628130000 +0100" channel="NBA.pt">
     <title lang="pt">Marquee Matchup - Pacers x Trail Blazers - December 2, 2013</title>
   </programme>
-  <programme start="20200628130000 +0100" stop="20200628140000 +0100" channel="NULL">
+  <programme start="20200628130000 +0100" stop="20200628140000 +0100" channel="NBA.pt">
     <title lang="pt">Clutch City: 1994 Houston Rockets</title>
   </programme>
-  <programme start="20200628140000 +0100" stop="20200628160000 +0100" channel="NULL">
+  <programme start="20200628140000 +0100" stop="20200628160000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Rockets x Supersonics - 1993 - West Semis Game 7</title>
   </programme>
-  <programme start="20200628160000 +0100" stop="20200628170000 +0100" channel="NULL">
+  <programme start="20200628160000 +0100" stop="20200628170000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Heat x Celtics - East Semis - Game 3</title>
   </programme>
-  <programme start="20200628170000 +0100" stop="20200628180000 +0100" channel="NULL">
+  <programme start="20200628170000 +0100" stop="20200628180000 +0100" channel="NBA.pt">
     <title lang="pt">2011 Playoff Playbacks - Heat x Celtics - East Semis - Game 4</title>
   </programme>
-  <programme start="20200628180000 +0100" stop="20200628183000 +0100" channel="NULL">
+  <programme start="20200628180000 +0100" stop="20200628183000 +0100" channel="NBA.pt">
     <title lang="pt">The Way We Ball: Croatia</title>
   </programme>
-  <programme start="20200628183000 +0100" stop="20200628190000 +0100" channel="NULL">
+  <programme start="20200628183000 +0100" stop="20200628190000 +0100" channel="NBA.pt">
     <title lang="pt">The Way We Ball: France</title>
   </programme>
-  <programme start="20200628190000 +0100" stop="20200628210000 +0100" channel="NULL">
+  <programme start="20200628190000 +0100" stop="20200628210000 +0100" channel="NBA.pt">
     <title lang="pt">Hardwood Classic - Celtics x Pacers - 1992 1St Round Game 3</title>
   </programme>
-  <programme start="20200628210000 +0100" stop="20200628213000 +0100" channel="NULL">
+  <programme start="20200628210000 +0100" stop="20200628213000 +0100" channel="NBA.pt">
     <title lang="pt">Inside The NBA - Audio Toon: The TV Show!</title>
   </programme>
-  <programme start="20200628213000 +0100" stop="20200628233000 +0100" channel="NULL">
+  <programme start="20200628213000 +0100" stop="20200628233000 +0100" channel="NBA.pt">
     <title lang="pt">Marquee Matchup - Mavericks x Warriors - December 11, 2013</title>
   </programme>
-  <programme start="20200628233000 +0100" stop="20200629000000 +0100" channel="NULL">
+  <programme start="20200628233000 +0100" stop="20200629000000 +0100" channel="NBA.pt">
     <title lang="pt">NBA Home Video - 2001 LA Lakers</title>
   </programme>
-  <programme start="20200629000000 +0100" stop="20200629080000 +0100" channel="NULL">
+  <programme start="20200629000000 +0100" stop="20200629080000 +0100" channel="NBA.pt">
     <title lang="pt">A Definir</title>
   </programme>
-  <programme start="20200629080000 +0100" stop="20200629160000 +0100" channel="NULL">
+  <programme start="20200629080000 +0100" stop="20200629160000 +0100" channel="NBA.pt">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
-  <programme start="20200629160000 +0100" stop="20200630000000 +0100" channel="NULL">
+  <programme start="20200629160000 +0100" stop="20200630000000 +0100" channel="NBA.pt">
     <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
 </tv>
