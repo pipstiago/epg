@@ -44,150 +44,6 @@
     <display-name lang="pt">Sport TV NBA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20201004010500 +0100" stop="20201004030000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - FC Porto x Marítimo</title>
-  </programme>
-  <programme start="20201004030000 +0100" stop="20201004033000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Leeds United x Man. City</title>
-  </programme>
-  <programme start="20201004033000 +0100" stop="20201004040000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League World</title>
-  </programme>
-  <programme start="20201004040000 +0100" stop="20201004043500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">ONE Championship Weekly</title>
-  </programme>
-  <programme start="20201004043500 +0100" stop="20201004050000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">FIBA World Basketball</title>
-  </programme>
-  <programme start="20201004050000 +0100" stop="20201004060000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">NASCAR Cup Series - South Point 400 - Resumo</title>
-  </programme>
-  <programme start="20201004060000 +0100" stop="20201004070000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">NXT</title>
-  </programme>
-  <programme start="20201004070000 +0100" stop="20201004073000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Bar Sport TV - Bernardo Vilar e Manuel João - 2ª Parte</title>
-  </programme>
-  <programme start="20201004073000 +0100" stop="20201004092500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - FC Porto x Marítimo</title>
-  </programme>
-  <programme start="20201004092500 +0100" stop="20201004100000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20201004100000 +0100" stop="20201004103000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Leeds United x Man. City</title>
-  </programme>
-  <programme start="20201004103000 +0100" stop="20201004113000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga Mais (Direto)</title>
-  </programme>
-  <programme start="20201004113000 +0100" stop="20201004132500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Atalanta x Cagliari (Direto)</title>
-  </programme>
-  <programme start="20201004132500 +0100" stop="20201004135500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Leeds United x Man. City</title>
-  </programme>
-  <programme start="20201004135500 +0100" stop="20201004143000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20201004143000 +0100" stop="20201004150000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - FC Porto x Marítimo</title>
-  </programme>
-  <programme start="20201004150000 +0100" stop="20201004210000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Grande Jornada (Direto)</title>
-  </programme>
-  <programme start="20201004210000 +0100" stop="20201004230000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Grande Jornada - Portimonense x Sporting (Direto)</title>
-  </programme>
-  <programme start="20201004230000 +0100" stop="20201004235500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Só Golos (Direto)</title>
-  </programme>
-  <programme start="20201004235500 +0100" stop="20201005010500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Últimas Notícias (Direto)</title>
-  </programme>
-  <programme start="20201005010500 +0100" stop="20201005013500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - Benfica x Farense</title>
-  </programme>
-  <programme start="20201005013500 +0100" stop="20201005033000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - Portimonense x Sporting</title>
-  </programme>
-  <programme start="20201005033000 +0100" stop="20201005040000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Man. United x Tottenham</title>
-  </programme>
-  <programme start="20201005040000 +0100" stop="20201005043000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Juventus x Nápoles</title>
-  </programme>
-  <programme start="20201005043000 +0100" stop="20201005053000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">UFC - Holm x Aldana</title>
-  </programme>
-  <programme start="20201005053000 +0100" stop="20201005060000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Resumo da 4ª Jornada</title>
-  </programme>
-  <programme start="20201005060000 +0100" stop="20201005065000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Sports Unlimited Magazine</title>
-  </programme>
-  <programme start="20201005065000 +0100" stop="20201005085500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - Portimonense x Sporting</title>
-  </programme>
-  <programme start="20201005085500 +0100" stop="20201005112500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Manhã Informativa (Direto)</title>
-  </programme>
-  <programme start="20201005112500 +0100" stop="20201005115500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - Benfica x Farense</title>
-  </programme>
-  <programme start="20201005115500 +0100" stop="20201005125500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Grande Jornal (Direto)</title>
-  </programme>
-  <programme start="20201005125500 +0100" stop="20201005132500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - Portimonense x Sporting</title>
-  </programme>
-  <programme start="20201005132500 +0100" stop="20201005135500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Man. United x Tottenham</title>
-  </programme>
-  <programme start="20201005135500 +0100" stop="20201005143000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Notícias (Direto)</title>
-  </programme>
-  <programme start="20201005143000 +0100" stop="20201005150000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Juventus x Nápoles</title>
-  </programme>
-  <programme start="20201005150000 +0100" stop="20201005152500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Resumo da 4ª Jornada</title>
-  </programme>
-  <programme start="20201005152500 +0100" stop="20201005155500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - Resumos da 3ª Jornada</title>
-  </programme>
-  <programme start="20201005155500 +0100" stop="20201005163000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Central + (Direto)</title>
-  </programme>
-  <programme start="20201005163000 +0100" stop="20201005170000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - Portimonense x Sporting</title>
-  </programme>
-  <programme start="20201005170000 +0100" stop="20201005180000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Fan Zone (Direto)</title>
-  </programme>
-  <programme start="20201005180000 +0100" stop="20201005182500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Man. United x Tottenham</title>
-  </programme>
-  <programme start="20201005182500 +0100" stop="20201005185500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Resumos da 3ª Jornada</title>
-  </programme>
-  <programme start="20201005185500 +0100" stop="20201005191000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Mercado de Verão (Direto)</title>
-  </programme>
-  <programme start="20201005191000 +0100" stop="20201005194500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Premier League - Resumo da 4ª Jornada</title>
-  </programme>
-  <programme start="20201005194500 +0100" stop="20201005214000 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Segunda Liga - Vizela x Desp. Chaves (Direto)</title>
-  </programme>
-  <programme start="20201005214000 +0100" stop="20201005232500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Titulares (Direto)</title>
-  </programme>
-  <programme start="20201005232500 +0100" stop="20201005235500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga NOS - Resumos da 3ª Jornada</title>
-  </programme>
-  <programme start="20201005235500 +0100" stop="20201006010500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Últimas Notícias (Direto)</title>
-  </programme>
   <programme start="20201006010500 +0100" stop="20201006020000 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Premier League - Resumos e Reportagens</title>
   </programme>
@@ -221,17 +77,17 @@
   <programme start="20201006112500 +0100" stop="20201006115500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Liga NOS - Resumos da 3ª Jornada</title>
   </programme>
-  <programme start="20201006115500 +0100" stop="20201006130000 +0100" channel="SportTVPlus.pt">
+  <programme start="20201006115500 +0100" stop="20201006131000 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Grande Jornal (Direto)</title>
   </programme>
-  <programme start="20201006130000 +0100" stop="20201006135500 +0100" channel="SportTVPlus.pt">
+  <programme start="20201006131000 +0100" stop="20201006140500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">WWE SmackDown</title>
   </programme>
-  <programme start="20201006135500 +0100" stop="20201006143500 +0100" channel="SportTVPlus.pt">
+  <programme start="20201006140500 +0100" stop="20201006145500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Notícias (Direto)</title>
   </programme>
-  <programme start="20201006143500 +0100" stop="20201006150500 +0100" channel="SportTVPlus.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Resumos da 3ª Jornada</title>
+  <programme start="20201006145500 +0100" stop="20201006150500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Liga Italiana - Golos da 3ª Jornada</title>
   </programme>
   <programme start="20201006150500 +0100" stop="20201006163000 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Taça Libertadores - Magazine</title>
@@ -272,10 +128,10 @@
   <programme start="20201007014000 +0100" stop="20201007021000 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Superliga Turca - Resumo da 4ª Jornada</title>
   </programme>
-  <programme start="20201007021000 +0100" stop="20201007023500 +0100" channel="SportTVPlus.pt">
+  <programme start="20201007021000 +0100" stop="20201007024000 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Liga Italiana 2020-21 - Resumos da 3ª Jornada</title>
   </programme>
-  <programme start="20201007023500 +0100" stop="20201007033000 +0100" channel="SportTVPlus.pt">
+  <programme start="20201007024000 +0100" stop="20201007033000 +0100" channel="SportTVPlus.pt">
     <title lang="pt">UFC - Holm x Aldana</title>
   </programme>
   <programme start="20201007033000 +0100" stop="20201007040000 +0100" channel="SportTVPlus.pt">
@@ -290,16 +146,16 @@
   <programme start="20201007050000 +0100" stop="20201007060000 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Premier League - Resumos e Reportagens</title>
   </programme>
-  <programme start="20201007060000 +0100" stop="20201007065000 +0100" channel="SportTVPlus.pt">
+  <programme start="20201007060000 +0100" stop="20201007065500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Taça Libertadores - Magazine</title>
   </programme>
-  <programme start="20201007065000 +0100" stop="20201007074000 +0100" channel="SportTVPlus.pt">
+  <programme start="20201007065500 +0100" stop="20201007074500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Liga das Nações - Resumo da 1ª Jornada</title>
   </programme>
-  <programme start="20201007074000 +0100" stop="20201007083000 +0100" channel="SportTVPlus.pt">
+  <programme start="20201007074500 +0100" stop="20201007083500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Liga das Nações - Resumo da 2ª Jornada</title>
   </programme>
-  <programme start="20201007083000 +0100" stop="20201007085500 +0100" channel="SportTVPlus.pt">
+  <programme start="20201007083500 +0100" stop="20201007085500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Documentário - Von Froth - The 1 Minute Barrel</title>
   </programme>
   <programme start="20201007085500 +0100" stop="20201007112500 +0100" channel="SportTVPlus.pt">
@@ -350,95 +206,209 @@
   <programme start="20201007232500 +0100" stop="20201007235500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Jogo de Preparação - Resumo do Dia</title>
   </programme>
-  <programme start="20201007235500 +0100" stop="20201008010000 +0100" channel="SportTVPlus.pt">
+  <programme start="20201007235500 +0100" stop="20201008010500 +0100" channel="SportTVPlus.pt">
     <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
-  <programme start="20201004012000 +0100" stop="20201004033000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Udinese x AS Roma</title>
+  <programme start="20201008010500 +0100" stop="20201008013000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Portugal x Espanha</title>
   </programme>
-  <programme start="20201004033000 +0100" stop="20201004060000 +0100" channel="SportTV1.pt">
-    <title lang="pt">UFC - Holm x Aldana (Direto)</title>
+  <programme start="20201008013000 +0100" stop="20201008020000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Resumo do Dia</title>
   </programme>
-  <programme start="20201004060000 +0100" stop="20201004065000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Ring of Honor</title>
+  <programme start="20201008020000 +0100" stop="20201008023000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Netbusters</title>
   </programme>
-  <programme start="20201004065000 +0100" stop="20201004090000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Tondela x SC Braga</title>
+  <programme start="20201008023000 +0100" stop="20201008030000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Serie A: Full Impact</title>
   </programme>
-  <programme start="20201004090000 +0100" stop="20201004111500 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - FC Porto x Marítimo</title>
+  <programme start="20201008030000 +0100" stop="20201008040000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">NASCAR Cup Series - Yellawood 500 - Talladega Superspeedway - Resumo</title>
   </programme>
-  <programme start="20201004111500 +0100" stop="20201004133000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Segunda Liga - Varzim x Académica (Direto)</title>
+  <programme start="20201008040000 +0100" stop="20201008043000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">ATP Uncovered</title>
   </programme>
-  <programme start="20201004133000 +0100" stop="20201004153000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga Holandesa - Willem II x Feyenoord (Direto)</title>
+  <programme start="20201008043000 +0100" stop="20201008050000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">World of Freesports</title>
   </programme>
-  <programme start="20201004153000 +0100" stop="20201004174000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Nacional x Belenenses SAD (Direto)</title>
+  <programme start="20201008050000 +0100" stop="20201008053000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Portugal x Espanha</title>
   </programme>
-  <programme start="20201004174000 +0100" stop="20201004175000 +0100" channel="SportTV1.pt">
-    <title lang="pt">A Magia da Bola</title>
+  <programme start="20201008053000 +0100" stop="20201008060000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Resumo do Dia</title>
   </programme>
-  <programme start="20201004175000 +0100" stop="20201004183000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - FC Porto x Marítimo</title>
+  <programme start="20201008060000 +0100" stop="20201008065000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Watersports World</title>
   </programme>
-  <programme start="20201004183000 +0100" stop="20201004210000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Famalicão x Rio Ave (Direto)</title>
+  <programme start="20201008065000 +0100" stop="20201008071000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Documentário - Von Froth - The 1 Minute Barrel</title>
   </programme>
-  <programme start="20201004210000 +0100" stop="20201004233000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Portimonense x Sporting (Direto)</title>
+  <programme start="20201008071000 +0100" stop="20201008080000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Sports Unlimited Magazine</title>
   </programme>
-  <programme start="20201004233000 +0100" stop="20201005000000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Benfica x Farense</title>
+  <programme start="20201008080000 +0100" stop="20201008085500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">WWE SmackDown</title>
   </programme>
-  <programme start="20201005000000 +0100" stop="20201005003000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Juventus x Nápoles</title>
+  <programme start="20201008085500 +0100" stop="20201008112500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Manhã Informativa (Direto)</title>
   </programme>
-  <programme start="20201005003000 +0100" stop="20201005031000 +0100" channel="SportTV1.pt">
-    <title lang="pt">NBA - Heat x LA Lakers - Finals - Jogo 3 (Direto)</title>
+  <programme start="20201008112500 +0100" stop="20201008115500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Portugal x Espanha</title>
   </programme>
-  <programme start="20201005031000 +0100" stop="20201005071000 +0100" channel="SportTV1.pt">
-    <title lang="pt">NASCAR Cup Series - Yellawood 500 - Talladega Superspeedway</title>
+  <programme start="20201008115500 +0100" stop="20201008130000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Grande Jornal (Direto)</title>
   </programme>
-  <programme start="20201005071000 +0100" stop="20201005091000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Campeonato Nacional de Voleibol - SC Espinho x Sporting</title>
+  <programme start="20201008130000 +0100" stop="20201008135500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">WWE Raw</title>
   </programme>
-  <programme start="20201005091000 +0100" stop="20201005094000 +0100" channel="SportTV1.pt">
-    <title lang="pt">NBA Action</title>
+  <programme start="20201008135500 +0100" stop="20201008143000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Notícias (Direto)</title>
   </programme>
-  <programme start="20201005094000 +0100" stop="20201005120500 +0100" channel="SportTV1.pt">
-    <title lang="pt">NBA - Heat x LA Lakers - Finals - Jogo 3</title>
+  <programme start="20201008143000 +0100" stop="20201008150000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Resumo do Dia</title>
   </programme>
-  <programme start="20201005120500 +0100" stop="20201005141000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Nacional x Belenenses SAD</title>
+  <programme start="20201008150000 +0100" stop="20201008152500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Netbusters</title>
   </programme>
-  <programme start="20201005141000 +0100" stop="20201005144000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Benfica x Farense</title>
+  <programme start="20201008152500 +0100" stop="20201008155500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Bar Sport TV - Pedro Canário e Vítor Chagas - 1ª Parte</title>
   </programme>
-  <programme start="20201005144000 +0100" stop="20201005165000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Portimonense x Sporting</title>
+  <programme start="20201008155500 +0100" stop="20201008163000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Central + (Direto)</title>
   </programme>
-  <programme start="20201005165000 +0100" stop="20201005190500 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Famalicão x Rio Ave</title>
+  <programme start="20201008163000 +0100" stop="20201008170000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Serie A: Full Impact</title>
   </programme>
-  <programme start="20201005190500 +0100" stop="20201005194500 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - FC Porto x Marítimo</title>
+  <programme start="20201008170000 +0100" stop="20201008180000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Fan Zone (Direto)</title>
   </programme>
-  <programme start="20201005194500 +0100" stop="20201005215000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Segunda Liga - Vizela x Desp. Chaves (Direto)</title>
+  <programme start="20201008180000 +0100" stop="20201008183000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Portugal x Espanha</title>
   </programme>
-  <programme start="20201005215000 +0100" stop="20201005221500 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga NOS - Resumos da 3ª Jornada</title>
+  <programme start="20201008183000 +0100" stop="20201008185500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Resumo do Dia</title>
   </programme>
-  <programme start="20201005221500 +0100" stop="20201005231000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Premier League - Resumos e Reportagens</title>
+  <programme start="20201008185500 +0100" stop="20201008192500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Central + (Direto)</title>
   </programme>
-  <programme start="20201005231000 +0100" stop="20201005234000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Resumos da 3ª Jornada</title>
+  <programme start="20201008192500 +0100" stop="20201008195500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Premier League World</title>
   </programme>
-  <programme start="20201005234000 +0100" stop="20201006001000 +0100" channel="SportTV1.pt">
-    <title lang="pt">Liga Holandesa - Resumos da 4ª Jornada</title>
+  <programme start="20201008195500 +0100" stop="20201008202500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Notícias (Direto)</title>
+  </programme>
+  <programme start="20201008202500 +0100" stop="20201008205500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">ReporTV - Doutrina do Berço</title>
+  </programme>
+  <programme start="20201008205500 +0100" stop="20201008214500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Noite Informativa (Direto)</title>
+  </programme>
+  <programme start="20201008214500 +0100" stop="20201008225500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Qualificação Euro 2020 (Direto)</title>
+  </programme>
+  <programme start="20201008225500 +0100" stop="20201008232500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Central + (Direto)</title>
+  </programme>
+  <programme start="20201008232500 +0100" stop="20201008235500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Inglaterra x País de Gales</title>
+  </programme>
+  <programme start="20201008235500 +0100" stop="20201009010000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+  </programme>
+  <programme start="20201009010000 +0100" stop="20201009013000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Qualificação Euro 2020 - Playoff - Meias-Finais - Resumos</title>
+  </programme>
+  <programme start="20201009013000 +0100" stop="20201009020000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Inglaterra x País de Gales</title>
+  </programme>
+  <programme start="20201009020000 +0100" stop="20201009023000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Premier League World</title>
+  </programme>
+  <programme start="20201009023000 +0100" stop="20201009033000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">IndyCar Series - Harvest Grand Prix 1 - Resumo</title>
+  </programme>
+  <programme start="20201009033000 +0100" stop="20201009043000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">IndyCar Series - Harvest Grand Prix 2 - Resumo</title>
+  </programme>
+  <programme start="20201009043000 +0100" stop="20201009053000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Mundial Superbike - GP França - Resumo</title>
+  </programme>
+  <programme start="20201009053000 +0100" stop="20201009060000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Qualificação Euro 2020 - Playoff - Meias-Finais - Resumos</title>
+  </programme>
+  <programme start="20201009060000 +0100" stop="20201009063000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Inglaterra x País de Gales</title>
+  </programme>
+  <programme start="20201009063000 +0100" stop="20201009070000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Premier League World</title>
+  </programme>
+  <programme start="20201009070000 +0100" stop="20201009080000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">NASCAR Cup Series - Yellawood 500 - Talladega Superspeedway - Resumo</title>
+  </programme>
+  <programme start="20201009080000 +0100" stop="20201009085500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">WWE Raw</title>
+  </programme>
+  <programme start="20201009085500 +0100" stop="20201009112500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Manhã Informativa (Direto)</title>
+  </programme>
+  <programme start="20201009112500 +0100" stop="20201009115500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Inglaterra x País de Gales</title>
+  </programme>
+  <programme start="20201009115500 +0100" stop="20201009130000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Grande Jornal (Direto)</title>
+  </programme>
+  <programme start="20201009130000 +0100" stop="20201009135500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Liga das Nações - Resumo da 1ª Jornada</title>
+  </programme>
+  <programme start="20201009135500 +0100" stop="20201009143500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Notícias (Direto)</title>
+  </programme>
+  <programme start="20201009143500 +0100" stop="20201009152500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Liga das Nações - Resumo da 2ª Jornada</title>
+  </programme>
+  <programme start="20201009152500 +0100" stop="20201009155500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Qualificação Euro 2020 - Playoff - Meias-Finais - Resumos</title>
+  </programme>
+  <programme start="20201009155500 +0100" stop="20201009163000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Central + (Direto)</title>
+  </programme>
+  <programme start="20201009163000 +0100" stop="20201009170000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Jogo de Preparação - Inglaterra x País de Gales</title>
+  </programme>
+  <programme start="20201009170000 +0100" stop="20201009180000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Fan Zone (Direto)</title>
+  </programme>
+  <programme start="20201009180000 +0100" stop="20201009183000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Liga das Nações - Antevisão das Jornadas 3 e 4</title>
+  </programme>
+  <programme start="20201009183000 +0100" stop="20201009185500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">ReporTV - Doutrina do Berço</title>
+  </programme>
+  <programme start="20201009185500 +0100" stop="20201009192500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Central + (Direto)</title>
+  </programme>
+  <programme start="20201009192500 +0100" stop="20201009195500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Bar Sport TV - Pedro Canário e Vítor Chagas - 1ª Parte</title>
+  </programme>
+  <programme start="20201009195500 +0100" stop="20201009202000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Notícias (Direto)</title>
+  </programme>
+  <programme start="20201009202000 +0100" stop="20201009204500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Premier League World</title>
+  </programme>
+  <programme start="20201009204500 +0100" stop="20201009222500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Aposta Tripla (Direto)</title>
+  </programme>
+  <programme start="20201009222500 +0100" stop="20201009225500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Qualificação Euro 2020 - Playoff - Meias-Finais - Resumos</title>
+  </programme>
+  <programme start="20201009225500 +0100" stop="20201009232500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Central + (Direto)</title>
+  </programme>
+  <programme start="20201009232500 +0100" stop="20201009235500 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">ReporTV - Doutrina do Berço</title>
+  </programme>
+  <programme start="20201009235500 +0100" stop="20201010010000 +0100" channel="SportTVPlus.pt">
+    <title lang="pt">Últimas Notícias (Direto)</title>
   </programme>
   <programme start="20201006001000 +0100" stop="20201006010000 +0100" channel="SportTV1.pt">
     <title lang="pt">Taça Libertadores - Magazine</title>
@@ -452,8 +422,11 @@
   <programme start="20201006024000 +0100" stop="20201006051000 +0100" channel="SportTV1.pt">
     <title lang="pt">IndyCar Series - Harvest Grand Prix - Corrida 1</title>
   </programme>
-  <programme start="20201006051000 +0100" stop="20201006071000 +0100" channel="SportTV1.pt">
+  <programme start="20201006051000 +0100" stop="20201006065500 +0100" channel="SportTV1.pt">
     <title lang="pt">IndyCar Series - Harvest Grand Prix - Corrida 2</title>
+  </programme>
+  <programme start="20201006065500 +0100" stop="20201006071000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Triatlo - Prova Nacional - Triatlo de Albufeira</title>
   </programme>
   <programme start="20201006071000 +0100" stop="20201006081000 +0100" channel="SportTV1.pt">
     <title lang="pt">Camp. do Mundo Motocrosse - GP Europa - MXGP - Corrida 1</title>
@@ -494,10 +467,10 @@
   <programme start="20201006190000 +0100" stop="20201006211000 +0100" channel="SportTV1.pt">
     <title lang="pt">Liga NOS - Portimonense x Sporting</title>
   </programme>
-  <programme start="20201006211000 +0100" stop="20201006232000 +0100" channel="SportTV1.pt">
+  <programme start="20201006211000 +0100" stop="20201006233000 +0100" channel="SportTV1.pt">
     <title lang="pt">Liga NOS - FC Porto x Marítimo</title>
   </programme>
-  <programme start="20201006232000 +0100" stop="20201007020000 +0100" channel="SportTV1.pt">
+  <programme start="20201006233000 +0100" stop="20201007020000 +0100" channel="SportTV1.pt">
     <title lang="pt">UFC - Holm x Aldana</title>
   </programme>
   <programme start="20201007020000 +0100" stop="20201007044000 +0100" channel="SportTV1.pt">
@@ -548,101 +521,101 @@
   <programme start="20201007234500 +0100" stop="20201008014000 +0100" channel="SportTV1.pt">
     <title lang="pt">Jogo de Preparação - Alemanha x Turquia</title>
   </programme>
-  <programme start="20201004014000 +0100" stop="20201004033000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Chelsea x Crystal Palace</title>
+  <programme start="20201008014000 +0100" stop="20201008021000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Serie A: Full Impact</title>
   </programme>
-  <programme start="20201004033000 +0100" stop="20201004052000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Sassuolo x Crotone</title>
+  <programme start="20201008021000 +0100" stop="20201008040000 +0100" channel="SportTV1.pt">
+    <title lang="pt">EuroCup - UNICS Kazan x Bahcesehir Istanbul</title>
   </programme>
-  <programme start="20201004052000 +0100" stop="20201004071000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Superliga Turca - Fenerbahçe x Fatih Karagumruk</title>
+  <programme start="20201008040000 +0100" stop="20201008062000 +0100" channel="SportTV1.pt">
+    <title lang="pt">NBA - Heat x LA Lakers - Finals - Jogo 4</title>
   </programme>
-  <programme start="20201004071000 +0100" stop="20201004074000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Temples of Sport - Camp Nou</title>
+  <programme start="20201008062000 +0100" stop="20201008082000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Itália x Moldávia</title>
   </programme>
-  <programme start="20201004074000 +0100" stop="20201004081000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Temples of Sport - Anfield</title>
+  <programme start="20201008082000 +0100" stop="20201008102000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - França x Ucrânia</title>
   </programme>
-  <programme start="20201004081000 +0100" stop="20201004100000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Newcastle x Burnley</title>
+  <programme start="20201008102000 +0100" stop="20201008122000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Alemanha x Turquia</title>
   </programme>
-  <programme start="20201004100000 +0100" stop="20201004120000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Leeds United x Man. City</title>
+  <programme start="20201008122000 +0100" stop="20201008142000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Portugal x Espanha</title>
   </programme>
-  <programme start="20201004120000 +0100" stop="20201004140000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Leicester City x West Ham (Direto)</title>
+  <programme start="20201008142000 +0100" stop="20201008150000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Qualificação Euro 2020 - Antevisão Meia-Final do Playoff</title>
   </programme>
-  <programme start="20201004140000 +0100" stop="20201004160000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Wolverhampton x Fulham (Direto)</title>
+  <programme start="20201008150000 +0100" stop="20201008173000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Segunda Liga - Ac. Viseu x Académica (Direto)</title>
   </programme>
-  <programme start="20201004160000 +0100" stop="20201004163000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Antevisão Man. United x Tottenham (Direto)</title>
+  <programme start="20201008173000 +0100" stop="20201008194500 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Rússia x Suécia (Direto)</title>
   </programme>
-  <programme start="20201004163000 +0100" stop="20201004183000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Man. United x Tottenham (Direto)</title>
+  <programme start="20201008194500 +0100" stop="20201008214000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Qualificação Euro 2020 - Noruega x Sérvia - Playoff - Meia-Final (Direto)</title>
   </programme>
-  <programme start="20201004183000 +0100" stop="20201004191500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Leeds United x Man. City</title>
+  <programme start="20201008214000 +0100" stop="20201008234000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Bélgica x Costa do Marfim</title>
   </programme>
-  <programme start="20201004191500 +0100" stop="20201004211500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Aston Villa x Liverpool (Direto)</title>
+  <programme start="20201008234000 +0100" stop="20201009014000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Inglaterra x País de Gales</title>
   </programme>
-  <programme start="20201004211500 +0100" stop="20201004214500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Wolverhampton x Fulham (Direto)</title>
+  <programme start="20201009014000 +0100" stop="20201009033000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Qualificação Euro 2020 - Escócia x Israel - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201004214500 +0100" stop="20201004234000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Lazio x Inter</title>
+  <programme start="20201009033000 +0100" stop="20201009053000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Super Rugby - Castle Lager Springbok Showdown</title>
   </programme>
-  <programme start="20201004234000 +0100" stop="20201005013500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Man. United x Tottenham</title>
+  <programme start="20201009053000 +0100" stop="20201009063000 +0100" channel="SportTV1.pt">
+    <title lang="pt">IndyCar Series - Harvest Grand Prix 1 - Resumo</title>
   </programme>
-  <programme start="20201005013500 +0100" stop="20201005020500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga NOS - Portimonense x Sporting</title>
+  <programme start="20201009063000 +0100" stop="20201009073000 +0100" channel="SportTV1.pt">
+    <title lang="pt">IndyCar Series - Harvest Grand Prix 2 - Resumo</title>
   </programme>
-  <programme start="20201005020500 +0100" stop="20201005021500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga Holandesa - Golos da 4ª Jornada</title>
+  <programme start="20201009073000 +0100" stop="20201009080000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Camp. do Mundo Trial - Andorra, Sant Julia - Resumo</title>
   </programme>
-  <programme start="20201005021500 +0100" stop="20201005024500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Resumo da 4ª Jornada</title>
+  <programme start="20201009080000 +0100" stop="20201009085500 +0100" channel="SportTV1.pt">
+    <title lang="pt">Moto GP 2020 - GP França - Moto3 - Treinos Livres 1 (Direto)</title>
   </programme>
-  <programme start="20201005024500 +0100" stop="20201005031500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Resumos da 3ª Jornada</title>
+  <programme start="20201009085500 +0100" stop="20201009095500 +0100" channel="SportTV1.pt">
+    <title lang="pt">Moto GP 2020 - GP França - MotoGP - Treinos Livres 1 (Direto)</title>
   </programme>
-  <programme start="20201005031500 +0100" stop="20201005034500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga NOS - Resumos da 3ª Jornada</title>
+  <programme start="20201009095500 +0100" stop="20201009104000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Moto GP 2020 - GP França - Moto2 - Treinos Livres 1 (Direto)</title>
   </programme>
-  <programme start="20201005034500 +0100" stop="20201005053500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga Holandesa - Groningen x Ajax</title>
+  <programme start="20201009104000 +0100" stop="20201009111000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Camp. Mundo Supermoto - GP Itália - Resumo</title>
   </programme>
-  <programme start="20201005053500 +0100" stop="20201005073000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga Italiana 2020-21 - AC Milan x Spezia</title>
+  <programme start="20201009111000 +0100" stop="20201009121500 +0100" channel="SportTV1.pt">
+    <title lang="pt">Mundial Superbike - GP França - Resumo</title>
   </programme>
-  <programme start="20201005073000 +0100" stop="20201005092500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Southampton x West Bromwich</title>
+  <programme start="20201009121500 +0100" stop="20201009131000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Moto GP 2020 - GP França - Moto3 - Treinos Livres 2 (Direto)</title>
   </programme>
-  <programme start="20201005092500 +0100" stop="20201005112000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Leicester City x West Ham</title>
+  <programme start="20201009131000 +0100" stop="20201009141000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Moto GP 2020 - GP França - MotoGP - Treinos Livres 2 (Direto)</title>
   </programme>
-  <programme start="20201005112000 +0100" stop="20201005131500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Arsenal x Sheffield United</title>
+  <programme start="20201009141000 +0100" stop="20201009150000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Moto GP 2020 - GP França - Moto2 - Treinos Livres 2 (Direto)</title>
   </programme>
-  <programme start="20201005131500 +0100" stop="20201005151000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Man. United x Tottenham</title>
+  <programme start="20201009150000 +0100" stop="20201009170000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Bélgica x Costa do Marfim</title>
   </programme>
-  <programme start="20201005151000 +0100" stop="20201005170500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Aston Villa x Liverpool</title>
+  <programme start="20201009170000 +0100" stop="20201009190000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Inglaterra x País de Gales</title>
   </programme>
-  <programme start="20201005170500 +0100" stop="20201005190000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Wolverhampton x Fulham</title>
+  <programme start="20201009190000 +0100" stop="20201009205000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Euroliga - Panathinaikos BC x Olympiacos BC (Direto)</title>
   </programme>
-  <programme start="20201005190000 +0100" stop="20201005205500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Premier League - Leeds United x Man. City</title>
+  <programme start="20201009205000 +0100" stop="20201009225000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Jogo de Preparação - Portugal x Espanha</title>
   </programme>
-  <programme start="20201005205500 +0100" stop="20201005225000 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Juventus x Nápoles</title>
+  <programme start="20201009225000 +0100" stop="20201009232000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Liga das Nações - Antevisão das Jornadas 3 e 4</title>
   </programme>
-  <programme start="20201005225000 +0100" stop="20201006004500 +0100" channel="SportTV2.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Udinese x AS Roma</title>
+  <programme start="20201009232000 +0100" stop="20201010001000 +0100" channel="SportTV1.pt">
+    <title lang="pt">Moto GP 2020 - GP França - MotoGP - Treinos Livres 1</title>
   </programme>
   <programme start="20201006004500 +0100" stop="20201006024000 +0100" channel="SportTV2.pt">
     <title lang="pt">Premier League - Newcastle x Burnley</title>
@@ -653,22 +626,22 @@
   <programme start="20201006043500 +0100" stop="20201006063000 +0100" channel="SportTV2.pt">
     <title lang="pt">Premier League - Everton x Brighton &amp; Hove Albion</title>
   </programme>
-  <programme start="20201006063000 +0100" stop="20201006082000 +0100" channel="SportTV2.pt">
+  <programme start="20201006063000 +0100" stop="20201006082500 +0100" channel="SportTV2.pt">
     <title lang="pt">Liga Italiana 2020-21 - Sassuolo x Crotone</title>
   </programme>
-  <programme start="20201006082000 +0100" stop="20201006101000 +0100" channel="SportTV2.pt">
+  <programme start="20201006082500 +0100" stop="20201006101500 +0100" channel="SportTV2.pt">
     <title lang="pt">MLS - Toronto FC x Philadelphia Union</title>
   </programme>
-  <programme start="20201006101000 +0100" stop="20201006121000 +0100" channel="SportTV2.pt">
+  <programme start="20201006101500 +0100" stop="20201006121000 +0100" channel="SportTV2.pt">
     <title lang="pt">Premier League - Leicester City x West Ham</title>
   </programme>
   <programme start="20201006121000 +0100" stop="20201006141000 +0100" channel="SportTV2.pt">
     <title lang="pt">Liga Holandesa - Groningen x Ajax</title>
   </programme>
-  <programme start="20201006141000 +0100" stop="20201006160000 +0100" channel="SportTV2.pt">
+  <programme start="20201006141000 +0100" stop="20201006160500 +0100" channel="SportTV2.pt">
     <title lang="pt">Premier League - Leeds United x Man. City</title>
   </programme>
-  <programme start="20201006160000 +0100" stop="20201006180000 +0100" channel="SportTV2.pt">
+  <programme start="20201006160500 +0100" stop="20201006180000 +0100" channel="SportTV2.pt">
     <title lang="pt">Premier League - Everton x Brighton &amp; Hove Albion</title>
   </programme>
   <programme start="20201006180000 +0100" stop="20201006195000 +0100" channel="SportTV2.pt">
@@ -683,10 +656,10 @@
   <programme start="20201006234000 +0100" stop="20201007014000 +0100" channel="SportTV2.pt">
     <title lang="pt">Premier League - Chelsea x Crystal Palace</title>
   </programme>
-  <programme start="20201007014000 +0100" stop="20201007033000 +0100" channel="SportTV2.pt">
+  <programme start="20201007014000 +0100" stop="20201007034000 +0100" channel="SportTV2.pt">
     <title lang="pt">Superliga Turca - Gaziantep x Trabzonspor</title>
   </programme>
-  <programme start="20201007033000 +0100" stop="20201007053000 +0100" channel="SportTV2.pt">
+  <programme start="20201007034000 +0100" stop="20201007053000 +0100" channel="SportTV2.pt">
     <title lang="pt">MLS - Orlando City SC x NY Red Bulls (Direto)</title>
   </programme>
   <programme start="20201007053000 +0100" stop="20201007073000 +0100" channel="SportTV2.pt">
@@ -722,95 +695,86 @@
   <programme start="20201007234000 +0100" stop="20201008014000 +0100" channel="SportTV2.pt">
     <title lang="pt">Jogo de Preparação - Portugal x Espanha</title>
   </programme>
-  <programme start="20201004003500 +0100" stop="20201004023000 +0100" channel="SportTV3.pt">
-    <title lang="pt">MLS - Toronto FC x Philadelphia Union (Direto)</title>
+  <programme start="20201008014000 +0100" stop="20201008034000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - França x Ucrânia</title>
   </programme>
-  <programme start="20201004023000 +0100" stop="20201004080000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20201008034000 +0100" stop="20201008053000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Dinamarca x Ilhas Faroé</title>
   </programme>
-  <programme start="20201004080000 +0100" stop="20201004100000 +0100" channel="SportTV3.pt">
-    <title lang="pt">MLS - Toronto FC x Philadelphia Union</title>
+  <programme start="20201008053000 +0100" stop="20201008073000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Holanda x México</title>
   </programme>
-  <programme start="20201004100000 +0100" stop="20201004120000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Udinese x AS Roma</title>
+  <programme start="20201008073000 +0100" stop="20201008093000 +0100" channel="SportTV2.pt">
+    <title lang="pt">MLS - Atlanta x Orlando City SC</title>
   </programme>
-  <programme start="20201004120000 +0100" stop="20201004140000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Premier League - Southampton x West Bromwich (Direto)</title>
+  <programme start="20201008093000 +0100" stop="20201008100000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Superliga Turca - Resumo da 4ª Jornada</title>
   </programme>
-  <programme start="20201004140000 +0100" stop="20201004155500 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Lazio x Inter (Direto)</title>
+  <programme start="20201008100000 +0100" stop="20201008103000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Serie A: Full Impact</title>
   </programme>
-  <programme start="20201004155500 +0100" stop="20201004170000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Camp. do Mundo Motocrosse - GP Europa - MX2 - Corrida 2</title>
+  <programme start="20201008103000 +0100" stop="20201008110000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Netbusters</title>
   </programme>
-  <programme start="20201004170000 +0100" stop="20201004190000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - AC Milan x Spezia (Direto)</title>
+  <programme start="20201008110000 +0100" stop="20201008130000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Suíça x Croácia</title>
   </programme>
-  <programme start="20201004190000 +0100" stop="20201004193000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Temples of Sport - Camp Nou</title>
+  <programme start="20201008130000 +0100" stop="20201008150000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Itália x Moldávia</title>
   </programme>
-  <programme start="20201004193000 +0100" stop="20201004194500 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Antevisão Juventus x Nápoles (Direto)</title>
+  <programme start="20201008150000 +0100" stop="20201008170000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - França x Ucrânia</title>
   </programme>
-  <programme start="20201004194500 +0100" stop="20201004214000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Juventus x Nápoles (Direto)</title>
+  <programme start="20201008170000 +0100" stop="20201008190000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Geórgia x Bielorrússia - Playoff - Meia-Final (Direto)</title>
   </programme>
-  <programme start="20201004214000 +0100" stop="20201004223000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Mundial Superbike - GP França - World SSP 300 - Corrida 2</title>
+  <programme start="20201008190000 +0100" stop="20201008194500 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Portugal x Espanha</title>
   </programme>
-  <programme start="20201004223000 +0100" stop="20201004233000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Moto3 - Corrida 1</title>
+  <programme start="20201008194500 +0100" stop="20201008214000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Escócia x Israel - Playoff - Meia-Final (Direto)</title>
   </programme>
-  <programme start="20201004233000 +0100" stop="20201005003000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Moto2 - Corrida 1</title>
+  <programme start="20201008214000 +0100" stop="20201008234000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Bósnia-Herzegovina x Irlanda Norte - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005003000 +0100" stop="20201005013000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Hawkers ETC - Corrida</title>
+  <programme start="20201008234000 +0100" stop="20201009014000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Rússia x Suécia</title>
   </programme>
-  <programme start="20201005013000 +0100" stop="20201005023000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Moto3 - Corrida 2</title>
+  <programme start="20201009014000 +0100" stop="20201009033000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Eslováquia x Irlanda - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005023000 +0100" stop="20201005033000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Moto2 - Corrida 2</title>
+  <programme start="20201009033000 +0100" stop="20201009053000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Alemanha x Turquia</title>
   </programme>
-  <programme start="20201005033000 +0100" stop="20201005080000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20201009053000 +0100" stop="20201009073000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - França x Ucrânia</title>
   </programme>
-  <programme start="20201005080000 +0100" stop="20201005095500 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Holandesa - Willem II x Feyenoord</title>
+  <programme start="20201009073000 +0100" stop="20201009093000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Holanda x México</title>
   </programme>
-  <programme start="20201005095500 +0100" stop="20201005115000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - AC Milan x Spezia</title>
+  <programme start="20201009093000 +0100" stop="20201009113000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Islândia x Roménia - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005115000 +0100" stop="20201005134000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Juventus x Nápoles</title>
+  <programme start="20201009113000 +0100" stop="20201009133000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Bósnia-Herzegovina x Irlanda Norte - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005134000 +0100" stop="20201005135000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Holandesa - Golos da 4ª Jornada</title>
+  <programme start="20201009133000 +0100" stop="20201009153000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Noruega x Sérvia - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005135000 +0100" stop="20201005142000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Premier League - Resumo da 4ª Jornada</title>
+  <programme start="20201009153000 +0100" stop="20201009173000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Escócia x Israel - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005142000 +0100" stop="20201005145000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Resumos da 3ª Jornada</title>
+  <programme start="20201009173000 +0100" stop="20201009193000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Qualificação Euro 2020 - Eslováquia x Irlanda - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005145000 +0100" stop="20201005152000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga NOS - Resumos da 3ª Jornada</title>
+  <programme start="20201009193000 +0100" stop="20201009213000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Bélgica x Costa do Marfim</title>
   </programme>
-  <programme start="20201005152000 +0100" stop="20201005171000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Lazio x Inter</title>
+  <programme start="20201009213000 +0100" stop="20201009233000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Holanda x México</title>
   </programme>
-  <programme start="20201005171000 +0100" stop="20201005191000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Holandesa - Groningen x Ajax</title>
-  </programme>
-  <programme start="20201005191000 +0100" stop="20201005211000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Atalanta x Cagliari</title>
-  </programme>
-  <programme start="20201005211000 +0100" stop="20201005230000 +0100" channel="SportTV3.pt">
-    <title lang="pt">MLS - Orlando City SC x NY Red Bulls (Direto)</title>
-  </programme>
-  <programme start="20201005230000 +0100" stop="20201006005500 +0100" channel="SportTV3.pt">
-    <title lang="pt">MLS - Toronto FC x Philadelphia Union</title>
+  <programme start="20201009233000 +0100" stop="20201010013000 +0100" channel="SportTV2.pt">
+    <title lang="pt">Jogo de Preparação - Alemanha x Turquia</title>
   </programme>
   <programme start="20201006005500 +0100" stop="20201006030000 +0100" channel="SportTV3.pt">
     <title lang="pt">Segunda Liga - Vizela x Desp. Chaves</title>
@@ -831,7 +795,7 @@
     <title lang="pt">Liga Italiana 2020-21 - Udinese x AS Roma</title>
   </programme>
   <programme start="20201006184000 +0100" stop="20201006203500 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Juventus x Nápoles</title>
+    <title lang="pt">Liga Italiana 2020-21 - Sassuolo x Crotone</title>
   </programme>
   <programme start="20201006203500 +0100" stop="20201006223000 +0100" channel="SportTV3.pt">
     <title lang="pt">Liga Italiana 2020-21 - Lazio x Inter</title>
@@ -851,11 +815,11 @@
   <programme start="20201007073000 +0100" stop="20201007130000 +0100" channel="SportTV3.pt">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201007130000 +0100" stop="20201007145500 +0100" channel="SportTV3.pt">
+  <programme start="20201007130000 +0100" stop="20201007150000 +0100" channel="SportTV3.pt">
     <title lang="pt">Liga Italiana 2020-21 - Lazio x Inter</title>
   </programme>
-  <programme start="20201007145500 +0100" stop="20201007165000 +0100" channel="SportTV3.pt">
-    <title lang="pt">Liga Italiana 2020-21 - Juventus x Nápoles</title>
+  <programme start="20201007150000 +0100" stop="20201007165000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Liga Italiana 2020-21 - Udinese x AS Roma</title>
   </programme>
   <programme start="20201007165000 +0100" stop="20201007172000 +0100" channel="SportTV3.pt">
     <title lang="pt">Liga Italiana 2020-21 - Resumos da 3ª Jornada</title>
@@ -878,59 +842,62 @@
   <programme start="20201007233500 +0100" stop="20201008000500 +0100" channel="SportTV3.pt">
     <title lang="pt">Netbusters</title>
   </programme>
-  <programme start="20201004020000 +0100" stop="20201004074000 +0100" channel="SportTV4.pt">
+  <programme start="20201008000500 +0100" stop="20201008020500 +0100" channel="SportTV3.pt">
+    <title lang="pt">MLS - Atlanta x Orlando City SC (Direto)</title>
+  </programme>
+  <programme start="20201008020500 +0100" stop="20201008080500 +0100" channel="SportTV3.pt">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201004074000 +0100" stop="20201004081000 +0100" channel="SportTV4.pt">
-    <title lang="pt">ATP Uncovered</title>
-  </programme>
-  <programme start="20201004081000 +0100" stop="20201004111500 +0100" channel="SportTV4.pt">
-    <title lang="pt">LPGA Tour - ShopRite LPGA Classic - 3º Dia</title>
-  </programme>
-  <programme start="20201004111500 +0100" stop="20201004131000 +0100" channel="SportTV4.pt">
-    <title lang="pt">Liga Holandesa - Groningen x Ajax (Direto)</title>
-  </programme>
-  <programme start="20201004131000 +0100" stop="20201004170000 +0100" channel="SportTV4.pt">
-    <title lang="pt">European Tour - Scottish Open - 4º Dia (Direto)</title>
-  </programme>
-  <programme start="20201004170000 +0100" stop="20201004180000 +0100" channel="SportTV4.pt">
-    <title lang="pt">Camp. do Mundo Motocrosse - GP Europa - MXGP - Corrida 2</title>
-  </programme>
-  <programme start="20201004180000 +0100" stop="20201004210000 +0100" channel="SportTV4.pt">
-    <title lang="pt">LPGA Tour - ShopRite LPGA Classic - 4º Dia (Direto)</title>
-  </programme>
-  <programme start="20201004210000 +0100" stop="20201005023000 +0100" channel="SportTV4.pt">
-    <title lang="pt">European Tour - Scottish Open - 4º Dia</title>
-  </programme>
-  <programme start="20201005023000 +0100" stop="20201005080000 +0100" channel="SportTV4.pt">
+  <programme start="20201008080500 +0100" stop="20201008130000 +0100" channel="SportTV3.pt">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201005080000 +0100" stop="20201005090000 +0100" channel="SportTV4.pt">
-    <title lang="pt">Watersports World</title>
+  <programme start="20201008130000 +0100" stop="20201008150000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Jogo de Preparação - Dinamarca x Ilhas Faroé</title>
   </programme>
-  <programme start="20201005090000 +0100" stop="20201005103000 +0100" channel="SportTV4.pt">
-    <title lang="pt">WWE SmackDown</title>
+  <programme start="20201008150000 +0100" stop="20201008170000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Jogo de Preparação - Andorra x Cabo Verde</title>
   </programme>
-  <programme start="20201005103000 +0100" stop="20201005110000 +0100" channel="SportTV4.pt">
-    <title lang="pt">ATP Uncovered</title>
+  <programme start="20201008170000 +0100" stop="20201008173000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Netbusters</title>
   </programme>
-  <programme start="20201005110000 +0100" stop="20201005130000 +0100" channel="SportTV4.pt">
-    <title lang="pt">Campeonato Nacional de Voleibol - SC Espinho x Sporting</title>
+  <programme start="20201008173000 +0100" stop="20201008194500 +0100" channel="SportTV3.pt">
+    <title lang="pt">MLS - Atlanta x Orlando City SC</title>
   </programme>
-  <programme start="20201005130000 +0100" stop="20201005160000 +0100" channel="SportTV4.pt">
-    <title lang="pt">LPGA Tour - ShopRite LPGA Classic - 4º Dia</title>
+  <programme start="20201008194500 +0100" stop="20201008214000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Qualificação Euro 2020 - Eslováquia x Irlanda - Playoff - Meia-Final (Direto)</title>
   </programme>
-  <programme start="20201005160000 +0100" stop="20201005213000 +0100" channel="SportTV4.pt">
-    <title lang="pt">European Tour - Scottish Open - 4º Dia</title>
+  <programme start="20201008214000 +0100" stop="20201008234000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Qualificação Euro 2020 - Islândia x Roménia - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005213000 +0100" stop="20201005220000 +0100" channel="SportTV4.pt">
-    <title lang="pt">World of Freesports</title>
+  <programme start="20201008234000 +0100" stop="20201009014000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Qualificação Euro 2020 - Geórgia x Bielorrússia - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201005220000 +0100" stop="20201005225000 +0100" channel="SportTV4.pt">
-    <title lang="pt">Sports Unlimited Magazine</title>
+  <programme start="20201009014000 +0100" stop="20201009021000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Premier League World</title>
   </programme>
-  <programme start="20201005225000 +0100" stop="20201006005000 +0100" channel="SportTV4.pt">
-    <title lang="pt">Super Rugby - Castle Lager Springbok Showdown</title>
+  <programme start="20201009021000 +0100" stop="20201009081000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201009081000 +0100" stop="20201009130000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Sem Emissão</title>
+  </programme>
+  <programme start="20201009130000 +0100" stop="20201009150000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Qualificação Euro 2020 - Islândia x Roménia - Playoff - Meia-Final</title>
+  </programme>
+  <programme start="20201009150000 +0100" stop="20201009170000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Qualificação Euro 2020 - Geórgia x Bielorrússia - Playoff - Meia-Final (Direto)</title>
+  </programme>
+  <programme start="20201009170000 +0100" stop="20201009190000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Qualificação Euro 2020 - Macedónia x Kosovo - Playoff - Meia-Final</title>
+  </programme>
+  <programme start="20201009190000 +0100" stop="20201009210000 +0100" channel="SportTV3.pt">
+    <title lang="pt">MLS - Atlanta x Orlando City SC</title>
+  </programme>
+  <programme start="20201009210000 +0100" stop="20201009231000 +0100" channel="SportTV3.pt">
+    <title lang="pt">NBA - Heat x LA Lakers - Finals - Jogo 4</title>
+  </programme>
+  <programme start="20201009231000 +0100" stop="20201010010000 +0100" channel="SportTV3.pt">
+    <title lang="pt">Euroliga - Panathinaikos BC x Olympiacos BC</title>
   </programme>
   <programme start="20201006005000 +0100" stop="20201006012000 +0100" channel="SportTV4.pt">
     <title lang="pt">ATP Uncovered</title>
@@ -986,95 +953,59 @@
   <programme start="20201007234000 +0100" stop="20201008001000 +0100" channel="SportTV4.pt">
     <title lang="pt">European Tour - O Melhor do BMW PGA Championship</title>
   </programme>
-  <programme start="20201004013000 +0100" stop="20201004023000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Mundial Superbike - GP França - World SBK - Corrida 1</title>
+  <programme start="20201008001000 +0100" stop="20201008004000 +0100" channel="SportTV4.pt">
+    <title lang="pt">ATP Uncovered</title>
   </programme>
-  <programme start="20201004023000 +0100" stop="20201004040500 +0100" channel="SportTV5.pt">
-    <title lang="pt">Mundial Superbike - GP França - World SSP - Corrida 1</title>
-  </programme>
-  <programme start="20201004040500 +0100" stop="20201004080000 +0100" channel="SportTV5.pt">
+  <programme start="20201008004000 +0100" stop="20201008064000 +0100" channel="SportTV4.pt">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201004080000 +0100" stop="20201004100000 +0100" channel="SportTV5.pt">
-    <title lang="pt">IndyCar Series - Harvest Grand Prix - Corrida 2</title>
-  </programme>
-  <programme start="20201004100000 +0100" stop="20201004110000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Mundial Superbike - GP França - World SBK - Tissot Superpole Race (Direto)</title>
-  </programme>
-  <programme start="20201004110000 +0100" stop="20201004120000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Camp. do Mundo Motocrosse - GP Europa - MX2 - Corrida 1 (Direto)</title>
-  </programme>
-  <programme start="20201004120000 +0100" stop="20201004130000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Camp. do Mundo Motocrosse - GP Europa - MXGP - Corrida 1 (Direto)</title>
-  </programme>
-  <programme start="20201004130000 +0100" stop="20201004140000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Mundial Superbike - GP França - World SBK - Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20201004140000 +0100" stop="20201004160000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Premier League - Arsenal x Sheffield United (Direto)</title>
-  </programme>
-  <programme start="20201004160000 +0100" stop="20201004180000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Campeonato Nacional de Voleibol - SC Espinho x Sporting (Direto)</title>
-  </programme>
-  <programme start="20201004180000 +0100" stop="20201004190000 +0100" channel="SportTV5.pt">
-    <title lang="pt">EuroFormula Open - Mugello - Corrida 2</title>
-  </programme>
-  <programme start="20201004190000 +0100" stop="20201004230000 +0100" channel="SportTV5.pt">
-    <title lang="pt">NASCAR Cup Series - Yellawood 500 - Talladega Superspeedway (Direto)</title>
-  </programme>
-  <programme start="20201004230000 +0100" stop="20201005004000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Campeonato Nacional de Voleibol - SC Espinho x Sporting</title>
-  </programme>
-  <programme start="20201005004000 +0100" stop="20201005014000 +0100" channel="SportTV5.pt">
-    <title lang="pt">UFC - Holm x Aldana</title>
-  </programme>
-  <programme start="20201005014000 +0100" stop="20201005074000 +0100" channel="SportTV5.pt">
+  <programme start="20201008064000 +0100" stop="20201008094000 +0100" channel="SportTV4.pt">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201005074000 +0100" stop="20201005080000 +0100" channel="SportTV5.pt">
+  <programme start="20201008094000 +0100" stop="20201008101000 +0100" channel="SportTV4.pt">
+    <title lang="pt">European Tour - Scottish Open - Resumo</title>
+  </programme>
+  <programme start="20201008101000 +0100" stop="20201008110000 +0100" channel="SportTV4.pt">
+    <title lang="pt">Challenge Tour - Italian Challenge Open - Resumo</title>
+  </programme>
+  <programme start="20201008110000 +0100" stop="20201008113000 +0100" channel="SportTV4.pt">
+    <title lang="pt">European Tour - O Melhor do BMW PGA Championship</title>
+  </programme>
+  <programme start="20201008113000 +0100" stop="20201008173000 +0100" channel="SportTV4.pt">
+    <title lang="pt">European Tour - BMW PGA Championship - 1º Dia (Direto)</title>
+  </programme>
+  <programme start="20201008173000 +0100" stop="20201008175000 +0100" channel="SportTV4.pt">
+    <title lang="pt">Documentário - Von Froth - Crazy Nias</title>
+  </programme>
+  <programme start="20201008175000 +0100" stop="20201008194500 +0100" channel="SportTV4.pt">
+    <title lang="pt">Supertaça de Voleibol - Benfica x Sporting - Meia-Final</title>
+  </programme>
+  <programme start="20201008194500 +0100" stop="20201008214000 +0100" channel="SportTV4.pt">
+    <title lang="pt">Qualificação Euro 2020 - Bulgária x Hungria - Playoff - Meia-Final (Direto)</title>
+  </programme>
+  <programme start="20201008214000 +0100" stop="20201009014000 +0100" channel="SportTV4.pt">
+    <title lang="pt">LPGA Tour - KPMG Women</title>
+  </programme>
+  <programme start="20201009014000 +0100" stop="20201009070000 +0100" channel="SportTV4.pt">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201005080000 +0100" stop="20201005090000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Moto3 - Corrida 1</title>
+  <programme start="20201009070000 +0100" stop="20201009110000 +0100" channel="SportTV4.pt">
+    <title lang="pt">LPGA Tour - KPMG Women</title>
   </programme>
-  <programme start="20201005090000 +0100" stop="20201005100000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Moto2 - Corrida 1</title>
+  <programme start="20201009110000 +0100" stop="20201009113000 +0100" channel="SportTV4.pt">
+    <title lang="pt">ATP Uncovered</title>
   </programme>
-  <programme start="20201005100000 +0100" stop="20201005110000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Hawkers ETC - Corrida</title>
+  <programme start="20201009113000 +0100" stop="20201009173000 +0100" channel="SportTV4.pt">
+    <title lang="pt">European Tour - BMW PGA Championship - 2º Dia (Direto)</title>
   </programme>
-  <programme start="20201005110000 +0100" stop="20201005120000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Moto3 - Corrida 2</title>
+  <programme start="20201009173000 +0100" stop="20201009180000 +0100" channel="SportTV4.pt">
+    <title lang="pt">European Tour - O Melhor do BMW PGA Championship</title>
   </programme>
-  <programme start="20201005120000 +0100" stop="20201005130000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Motociclismo - FIM CEV, Aragão 2 - Moto2 - Corrida 2</title>
+  <programme start="20201009180000 +0100" stop="20201009220000 +0100" channel="SportTV4.pt">
+    <title lang="pt">LPGA Tour - KPMG Women</title>
   </programme>
-  <programme start="20201005130000 +0100" stop="20201005153000 +0100" channel="SportTV5.pt">
-    <title lang="pt">IndyCar Series - Harvest Grand Prix - Corrida 1</title>
-  </programme>
-  <programme start="20201005153000 +0100" stop="20201005173000 +0100" channel="SportTV5.pt">
-    <title lang="pt">IndyCar Series - Harvest Grand Prix - Corrida 2</title>
-  </programme>
-  <programme start="20201005173000 +0100" stop="20201005200000 +0100" channel="SportTV5.pt">
-    <title lang="pt">NASCAR Cup Series - Yellawood 500 - Talladega Superspeedway</title>
-  </programme>
-  <programme start="20201005200000 +0100" stop="20201005203000 +0100" channel="SportTV5.pt">
-    <title lang="pt">NBA Action</title>
-  </programme>
-  <programme start="20201005203000 +0100" stop="20201005224000 +0100" channel="SportTV5.pt">
-    <title lang="pt">NBA - Heat x LA Lakers - Finals - Jogo 3</title>
-  </programme>
-  <programme start="20201005224000 +0100" stop="20201005230000 +0100" channel="SportTV5.pt">
-    <title lang="pt">De Norte a Sal - Episódio 1</title>
-  </programme>
-  <programme start="20201005230000 +0100" stop="20201005233000 +0100" channel="SportTV5.pt">
-    <title lang="pt">WRC - Rali de Itália - Antevisão</title>
-  </programme>
-  <programme start="20201005233000 +0100" stop="20201006000000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Camp. do Mundo Trial - Andorra, Sant Julia - Resumo</title>
-  </programme>
-  <programme start="20201006000000 +0100" stop="20201006003000 +0100" channel="SportTV5.pt">
-    <title lang="pt">Camp. Mundo Supermoto - GP Itália - Resumo</title>
+  <programme start="20201009220000 +0100" stop="20201010020000 +0100" channel="SportTV4.pt">
+    <title lang="pt">European Tour - BMW PGA Championship - 2º Dia</title>
   </programme>
   <programme start="20201006003000 +0100" stop="20201006010000 +0100" channel="SportTV5.pt">
     <title lang="pt">World of Freesports</title>
@@ -1088,19 +1019,19 @@
   <programme start="20201006100000 +0100" stop="20201006130000 +0100" channel="SportTV5.pt">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201006130000 +0100" stop="20201006140000 +0100" channel="SportTV5.pt">
+  <programme start="20201006130000 +0100" stop="20201006141000 +0100" channel="SportTV5.pt">
     <title lang="pt">Mundial Superbike - GP França - World SBK - Corrida 1</title>
   </programme>
-  <programme start="20201006140000 +0100" stop="20201006150000 +0100" channel="SportTV5.pt">
+  <programme start="20201006141000 +0100" stop="20201006150500 +0100" channel="SportTV5.pt">
     <title lang="pt">Mundial Superbike - GP França - World SBK - Corrida 2</title>
   </programme>
-  <programme start="20201006150000 +0100" stop="20201006160000 +0100" channel="SportTV5.pt">
+  <programme start="20201006150500 +0100" stop="20201006160500 +0100" channel="SportTV5.pt">
     <title lang="pt">Camp. do Mundo Motocrosse - GP Europa - MXGP - Corrida 1</title>
   </programme>
-  <programme start="20201006160000 +0100" stop="20201006170000 +0100" channel="SportTV5.pt">
+  <programme start="20201006160500 +0100" stop="20201006170500 +0100" channel="SportTV5.pt">
     <title lang="pt">Camp. do Mundo Motocrosse - GP Europa - MXGP - Corrida 2</title>
   </programme>
-  <programme start="20201006170000 +0100" stop="20201006173000 +0100" channel="SportTV5.pt">
+  <programme start="20201006170500 +0100" stop="20201006173000 +0100" channel="SportTV5.pt">
     <title lang="pt">Camp. do Mundo Trial - Andorra, Sant Julia - Resumo</title>
   </programme>
   <programme start="20201006173000 +0100" stop="20201006180000 +0100" channel="SportTV5.pt">
@@ -1133,11 +1064,14 @@
   <programme start="20201007122500 +0100" stop="20201007130000 +0100" channel="SportTV5.pt">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201007130000 +0100" stop="20201007140000 +0100" channel="SportTV5.pt">
+  <programme start="20201007130000 +0100" stop="20201007135000 +0100" channel="SportTV5.pt">
     <title lang="pt">EuroFormula Open - Mugello - Corrida 1</title>
   </programme>
-  <programme start="20201007140000 +0100" stop="20201007150000 +0100" channel="SportTV5.pt">
+  <programme start="20201007135000 +0100" stop="20201007145000 +0100" channel="SportTV5.pt">
     <title lang="pt">EuroFormula Open - Mugello - Corrida 2</title>
+  </programme>
+  <programme start="20201007145000 +0100" stop="20201007150000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Triatlo - Prova Nacional - Triatlo de Albufeira</title>
   </programme>
   <programme start="20201007150000 +0100" stop="20201007155000 +0100" channel="SportTV5.pt">
     <title lang="pt">Sports Unlimited Magazine</title>
@@ -1160,149 +1094,95 @@
   <programme start="20201007233000 +0100" stop="20201008000000 +0100" channel="SportTV5.pt">
     <title lang="pt">WRC - Rali de Itália - Antevisão</title>
   </programme>
-  <programme start="20201004004800 +0100" stop="20201004011500 +0100" channel="BTV1">
-    <title lang="pt">Corporate Club</title>
+  <programme start="20201008000000 +0100" stop="20201008010000 +0100" channel="SportTV5.pt">
+    <title lang="pt">UFC - Holm x Aldana</title>
   </programme>
-  <programme start="20201004011500 +0100" stop="20201004014700 +0100" channel="BTV1">
-    <title lang="pt">Off Road Magazine</title>
+  <programme start="20201008010000 +0100" stop="20201008030000 +0100" channel="SportTV5.pt">
+    <title lang="pt">NXT (Direto)</title>
   </programme>
-  <programme start="20201004014700 +0100" stop="20201004032800 +0100" channel="BTV1">
-    <title lang="pt">Liga NOS - SLB x Moreirense - 2ª Jornada - Rep</title>
+  <programme start="20201008030000 +0100" stop="20201008090000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201004032800 +0100" stop="20201004035300 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20201008090000 +0100" stop="20201008130000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201004035300 +0100" stop="20201004054000 +0100" channel="BTV1">
-    <title lang="pt">Futebol Feminino - A-dos-Francos x SLB - Rep</title>
+  <programme start="20201008130000 +0100" stop="20201008151000 +0100" channel="SportTV5.pt">
+    <title lang="pt">NBA - Heat x LA Lakers - Finals - Jogo 4</title>
   </programme>
-  <programme start="20201004054000 +0100" stop="20201004061000 +0100" channel="BTV1">
-    <title lang="pt">Jornal O Benfica</title>
+  <programme start="20201008151000 +0100" stop="20201008154000 +0100" channel="SportTV5.pt">
+    <title lang="pt">WRC - Rali de Itália - Antevisão</title>
   </programme>
-  <programme start="20201004061000 +0100" stop="20201004063900 +0100" channel="BTV1">
-    <title lang="pt">Corporate Club</title>
+  <programme start="20201008154000 +0100" stop="20201008164000 +0100" channel="SportTV5.pt">
+    <title lang="pt">NASCAR Cup Series - Yellawood 500 - Talladega Superspeedway - Resumo</title>
   </programme>
-  <programme start="20201004063900 +0100" stop="20201004070400 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20201008164000 +0100" stop="20201008173000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Sports Unlimited Magazine</title>
   </programme>
-  <programme start="20201004070400 +0100" stop="20201004073800 +0100" channel="BTV1">
-    <title lang="pt">Uma Semana do Melhor</title>
+  <programme start="20201008173000 +0100" stop="20201008182000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Watersports World</title>
   </programme>
-  <programme start="20201004073800 +0100" stop="20201004092200 +0100" channel="BTV1">
-    <title lang="pt">Liga Revelação - Marítimo x SLB - Rep</title>
+  <programme start="20201008182000 +0100" stop="20201008193000 +0100" channel="SportTV5.pt">
+    <title lang="pt">NXT</title>
   </programme>
-  <programme start="20201004092200 +0100" stop="20201004095300 +0100" channel="BTV1">
-    <title lang="pt">Off Road Magazine</title>
+  <programme start="20201008193000 +0100" stop="20201008200000 +0100" channel="SportTV5.pt">
+    <title lang="pt">De Norte a Sal - Episódio 4</title>
   </programme>
-  <programme start="20201004095300 +0100" stop="20201004095900 +0100" channel="BTV1">
-    <title lang="pt">Portugal In 150 Seconds</title>
+  <programme start="20201008200000 +0100" stop="20201008220000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Jogo de Preparação - Inglaterra x País de Gales (Direto)</title>
   </programme>
-  <programme start="20201004095900 +0100" stop="20201004111000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 10 Horas</title>
+  <programme start="20201008220000 +0100" stop="20201009000000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Qualificação Euro 2020 - Macedónia x Kosovo - Playoff - Meia-Final</title>
   </programme>
-  <programme start="20201004111000 +0100" stop="20201004132900 +0100" channel="BTV1">
-    <title lang="pt">Segunda Liga - Benfica B x Estoril - Direto</title>
+  <programme start="20201009000000 +0100" stop="20201009010000 +0100" channel="SportTV5.pt">
+    <title lang="pt">IndyCar Series - Harvest Grand Prix 1 - Resumo</title>
   </programme>
-  <programme start="20201004132900 +0100" stop="20201004135600 +0100" channel="BTV1">
-    <title lang="pt">Benfica 14 Horas</title>
+  <programme start="20201009010000 +0100" stop="20201009020000 +0100" channel="SportTV5.pt">
+    <title lang="pt">IndyCar Series - Harvest Grand Prix 2 - Resumo</title>
   </programme>
-  <programme start="20201004135600 +0100" stop="20201004155500 +0100" channel="BTV1">
-    <title lang="pt">Futebol Feminino - SLB x At. Ouriense - Direto</title>
+  <programme start="20201009020000 +0100" stop="20201009030000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Mundial Superbike - GP França - Resumo</title>
   </programme>
-  <programme start="20201004155500 +0100" stop="20201004172200 +0100" channel="BTV1">
-    <title lang="pt">Voleibol - SLB x SC Caldas - Direto</title>
+  <programme start="20201009030000 +0100" stop="20201009090000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201004172200 +0100" stop="20201004181000 +0100" channel="BTV1">
-    <title lang="pt">Emissão Especial - SLB x Farense</title>
+  <programme start="20201009090000 +0100" stop="20201009130000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201004181000 +0100" stop="20201004202700 +0100" channel="BTV1">
-    <title lang="pt">Liga NOS - SLB x Farense - 3ª Jornada - Direto</title>
+  <programme start="20201009130000 +0100" stop="20201009140000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Watersports World</title>
   </programme>
-  <programme start="20201004202700 +0100" stop="20201004220700 +0100" channel="BTV1">
-    <title lang="pt">Emissão Especial - SLB x Farense</title>
+  <programme start="20201009140000 +0100" stop="20201009150000 +0100" channel="SportTV5.pt">
+    <title lang="pt">NASCAR Cup Series - Yellawood 500 - Talladega Superspeedway - Resumo</title>
   </programme>
-  <programme start="20201004220700 +0100" stop="20201004233200 +0100" channel="BTV1">
-    <title lang="pt">Hóquei Feminino - SLB x UD Vilafranquense - Rep</title>
+  <programme start="20201009150000 +0100" stop="20201009160000 +0100" channel="SportTV5.pt">
+    <title lang="pt">IndyCar Series - Harvest Grand Prix 1 - Resumo</title>
   </programme>
-  <programme start="20201004233200 +0100" stop="20201005005900 +0100" channel="BTV1">
-    <title lang="pt">Voleibol - SLB x SC Caldas - Rep</title>
+  <programme start="20201009160000 +0100" stop="20201009170000 +0100" channel="SportTV5.pt">
+    <title lang="pt">IndyCar Series - Harvest Grand Prix 2 - Resumo</title>
   </programme>
-  <programme start="20201005005900 +0100" stop="20201005012500 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20201009170000 +0100" stop="20201009180000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Mundial Superbike - GP França - Resumo</title>
   </programme>
-  <programme start="20201005012500 +0100" stop="20201005030900 +0100" channel="BTV1">
-    <title lang="pt">Liga NOS - SLB x Farense - 3ª Jornada - Rep</title>
+  <programme start="20201009180000 +0100" stop="20201009190000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Moto GP 2020 - GP França - MotoGP - Treinos Livres 1</title>
   </programme>
-  <programme start="20201005030900 +0100" stop="20201005033500 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
+  <programme start="20201009190000 +0100" stop="20201009195500 +0100" channel="SportTV5.pt">
+    <title lang="pt">Moto GP 2020 - GP França - Moto3 - Treinos Livres 2</title>
   </programme>
-  <programme start="20201005033500 +0100" stop="20201005052100 +0100" channel="BTV1">
-    <title lang="pt">Futebol Feminino - SLB x At. Ouriense - Rep</title>
+  <programme start="20201009195500 +0100" stop="20201009205500 +0100" channel="SportTV5.pt">
+    <title lang="pt">Moto GP 2020 - GP França - MotoGP - Treinos Livres 2</title>
   </programme>
-  <programme start="20201005052100 +0100" stop="20201005055100 +0100" channel="BTV1">
-    <title lang="pt">Os Momentos + Incríveis do Desporto</title>
+  <programme start="20201009205500 +0100" stop="20201009214000 +0100" channel="SportTV5.pt">
+    <title lang="pt">Moto GP 2020 - GP França - Moto2 - Treinos Livres 2</title>
   </programme>
-  <programme start="20201005055100 +0100" stop="20201005062300 +0100" channel="BTV1">
-    <title lang="pt">Off Road Magazine</title>
+  <programme start="20201009214000 +0100" stop="20201009220000 +0100" channel="SportTV5.pt">
+    <title lang="pt">De Norte a Sal - Episódio 5</title>
   </programme>
-  <programme start="20201005062300 +0100" stop="20201005074900 +0100" channel="BTV1">
-    <title lang="pt">Andebol - ABC de Braga x SLB - Rep</title>
+  <programme start="20201009220000 +0100" stop="20201009223000 +0100" channel="SportTV5.pt">
+    <title lang="pt">WRC - Rali de Itália - Resumo 1º Dia</title>
   </programme>
-  <programme start="20201005074900 +0100" stop="20201005081400 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
-  </programme>
-  <programme start="20201005081400 +0100" stop="20201005095900 +0100" channel="BTV1">
-    <title lang="pt">Futebol Feminino - SLB x At. Ouriense - Rep</title>
-  </programme>
-  <programme start="20201005095900 +0100" stop="20201005103800 +0100" channel="BTV1">
-    <title lang="pt">Benfica 10 Horas</title>
-  </programme>
-  <programme start="20201005103800 +0100" stop="20201005120500 +0100" channel="BTV1">
-    <title lang="pt">Voleibol - SLB x Esmoriz - Rep</title>
-  </programme>
-  <programme start="20201005120500 +0100" stop="20201005132900 +0100" channel="BTV1">
-    <title lang="pt">Basquetebol Feminino - Quinta dos Lombos x SLB - Rep</title>
-  </programme>
-  <programme start="20201005132900 +0100" stop="20201005135700 +0100" channel="BTV1">
-    <title lang="pt">Benfica 14 Horas</title>
-  </programme>
-  <programme start="20201005135700 +0100" stop="20201005153700 +0100" channel="BTV1">
-    <title lang="pt">Basquetebol Feminino - SLB x Vagos - Direto</title>
-  </programme>
-  <programme start="20201005153700 +0100" stop="20201005165900 +0100" channel="BTV1">
-    <title lang="pt">Futsal - SLB x AD Modicus - Rep</title>
-  </programme>
-  <programme start="20201005165900 +0100" stop="20201005170500 +0100" channel="BTV1">
-    <title lang="pt">Portugal In 150 Seconds</title>
-  </programme>
-  <programme start="20201005170500 +0100" stop="20201005171200 +0100" channel="BTV1">
-    <title lang="pt">Karting - Portimão</title>
-  </programme>
-  <programme start="20201005171200 +0100" stop="20201005174300 +0100" channel="BTV1">
-    <title lang="pt">Os Momentos + Incríveis do Desporto</title>
-  </programme>
-  <programme start="20201005174300 +0100" stop="20201005180000 +0100" channel="BTV1">
-    <title lang="pt">B Quiz</title>
-  </programme>
-  <programme start="20201005180000 +0100" stop="20201005193500 +0100" channel="BTV1">
-    <title lang="pt">Segunda Bola</title>
-  </programme>
-  <programme start="20201005193500 +0100" stop="20201005205900 +0100" channel="BTV1">
-    <title lang="pt">Hóquei Feminino - SLB x UD Vilafranquense - Rep</title>
-  </programme>
-  <programme start="20201005205900 +0100" stop="20201005213000 +0100" channel="BTV1">
-    <title lang="pt">Benfica 21 Horas</title>
-  </programme>
-  <programme start="20201005213000 +0100" stop="20201005230200 +0100" channel="BTV1">
-    <title lang="pt">Chama Imensa BTV</title>
-  </programme>
-  <programme start="20201005230200 +0100" stop="20201005232700 +0100" channel="BTV1">
-    <title lang="pt">Benfica 24 Horas</title>
-  </programme>
-  <programme start="20201005232700 +0100" stop="20201005234400 +0100" channel="BTV1">
-    <title lang="pt">B Quiz</title>
-  </programme>
-  <programme start="20201005234400 +0100" stop="20201006011300 +0100" channel="BTV1">
-    <title lang="pt">Segunda Bola</title>
+  <programme start="20201009223000 +0100" stop="20201010003000 +0100" channel="SportTV5.pt">
+    <title lang="pt">ONE Championship - Reign of Destinies II</title>
   </programme>
   <programme start="20201006011300 +0100" stop="20201006014400 +0100" channel="BTV1">
     <title lang="pt">Os Momentos + Incríveis do Desporto</title>
@@ -1310,16 +1190,16 @@
   <programme start="20201006014400 +0100" stop="20201006021100 +0100" channel="BTV1">
     <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20201006021100 +0100" stop="20201006034200 +0100" channel="BTV1">
+  <programme start="20201006021100 +0100" stop="20201006034100 +0100" channel="BTV1">
     <title lang="pt">Chama Imensa BTV</title>
   </programme>
-  <programme start="20201006034200 +0100" stop="20201006040600 +0100" channel="BTV1">
+  <programme start="20201006034100 +0100" stop="20201006040600 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20201006040600 +0100" stop="20201006041300 +0100" channel="BTV1">
+  <programme start="20201006040600 +0100" stop="20201006041200 +0100" channel="BTV1">
     <title lang="pt">Karting - Portimão</title>
   </programme>
-  <programme start="20201006041300 +0100" stop="20201006042900 +0100" channel="BTV1">
+  <programme start="20201006041200 +0100" stop="20201006042900 +0100" channel="BTV1">
     <title lang="pt">B Quiz</title>
   </programme>
   <programme start="20201006042900 +0100" stop="20201006060100 +0100" channel="BTV1">
@@ -1349,11 +1229,11 @@
   <programme start="20201006103000 +0100" stop="20201006120000 +0100" channel="BTV1">
     <title lang="pt">Segunda Bola</title>
   </programme>
-  <programme start="20201006120000 +0100" stop="20201006122900 +0100" channel="BTV1">
+  <programme start="20201006120000 +0100" stop="20201006123200 +0100" channel="BTV1">
     <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20201006122900 +0100" stop="20201006135900 +0100" channel="BTV1">
-    <title lang="pt">Chama Imensa BTV</title>
+  <programme start="20201006123200 +0100" stop="20201006135900 +0100" channel="BTV1">
+    <title lang="pt">Hóquei - Juventude de Viana x SLB - Rep</title>
   </programme>
   <programme start="20201006135900 +0100" stop="20201006143100 +0100" channel="BTV1">
     <title lang="pt">Benfica 14 Horas</title>
@@ -1433,29 +1313,32 @@
   <programme start="20201007092900 +0100" stop="20201007095900 +0100" channel="BTV1">
     <title lang="pt">Leonor Pinhão</title>
   </programme>
-  <programme start="20201007095900 +0100" stop="20201007103200 +0100" channel="BTV1">
+  <programme start="20201007095900 +0100" stop="20201007104300 +0100" channel="BTV1">
     <title lang="pt">Benfica 10 Horas</title>
   </programme>
-  <programme start="20201007103200 +0100" stop="20201007121700 +0100" channel="BTV1">
+  <programme start="20201007104300 +0100" stop="20201007122800 +0100" channel="BTV1">
     <title lang="pt">Liga NOS - SLB x Farense - 3ª Jornada - Rep</title>
   </programme>
-  <programme start="20201007121700 +0100" stop="20201007124700 +0100" channel="BTV1">
+  <programme start="20201007122800 +0100" stop="20201007125800 +0100" channel="BTV1">
     <title lang="pt">José Nuno Martins</title>
   </programme>
-  <programme start="20201007124700 +0100" stop="20201007135900 +0100" channel="BTV1">
+  <programme start="20201007125800 +0100" stop="20201007135900 +0100" channel="BTV1">
     <title lang="pt">105 X 68</title>
   </programme>
-  <programme start="20201007135900 +0100" stop="20201007142900 +0100" channel="BTV1">
+  <programme start="20201007135900 +0100" stop="20201007143200 +0100" channel="BTV1">
     <title lang="pt">Benfica 14 Horas</title>
   </programme>
-  <programme start="20201007142900 +0100" stop="20201007155300 +0100" channel="BTV1">
+  <programme start="20201007143200 +0100" stop="20201007155600 +0100" channel="BTV1">
     <title lang="pt">Hóquei Feminino - SLB x UD Vilafranquense - Rep</title>
   </programme>
-  <programme start="20201007155300 +0100" stop="20201007162100 +0100" channel="BTV1">
+  <programme start="20201007155600 +0100" stop="20201007162400 +0100" channel="BTV1">
     <title lang="pt">Corporate Club</title>
   </programme>
-  <programme start="20201007162100 +0100" stop="20201007170000 +0100" channel="BTV1">
+  <programme start="20201007162400 +0100" stop="20201007165400 +0100" channel="BTV1">
     <title lang="pt">Leonor Pinhão</title>
+  </programme>
+  <programme start="20201007165400 +0100" stop="20201007170000 +0100" channel="BTV1">
+    <title lang="pt">As Campeãs</title>
   </programme>
   <programme start="20201007170000 +0100" stop="20201007172900 +0100" channel="BTV1">
     <title lang="pt">Notícias</title>
@@ -1484,161 +1367,203 @@
   <programme start="20201007233200 +0100" stop="20201007235700 +0100" channel="BTV1">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20201007235700 +0100" stop="20201008002700 +0100" channel="BTV1">
+  <programme start="20201007235700 +0100" stop="20201008002600 +0100" channel="BTV1">
     <title lang="pt">A Opinião de Fernando Seara</title>
   </programme>
-  <programme start="20201004020000 +0100" stop="20201004023000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga Chronicles</title>
+  <programme start="20201008002600 +0100" stop="20201008005600 +0100" channel="BTV1">
+    <title lang="pt">Cine BTV</title>
   </programme>
-  <programme start="20201004023000 +0100" stop="20201004033000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
+  <programme start="20201008005600 +0100" stop="20201008013000 +0100" channel="BTV1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
   </programme>
-  <programme start="20201004033000 +0100" stop="20201004040000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League Extra</title>
+  <programme start="20201008013000 +0100" stop="20201008020100 +0100" channel="BTV1">
+    <title lang="pt">Off Road Magazine</title>
   </programme>
-  <programme start="20201004040000 +0100" stop="20201004050000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
+  <programme start="20201008020100 +0100" stop="20201008022900 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20201004050000 +0100" stop="20201004053000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
+  <programme start="20201008022900 +0100" stop="20201008035200 +0100" channel="BTV1">
+    <title lang="pt">Andebol - SLB x ADA Maia/ISMAI - Rep</title>
   </programme>
-  <programme start="20201004053000 +0100" stop="20201004060000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
+  <programme start="20201008035200 +0100" stop="20201008041700 +0100" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20201004060000 +0100" stop="20201004070000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
+  <programme start="20201008041700 +0100" stop="20201008054700 +0100" channel="BTV1">
+    <title lang="pt">As Lanças Apontadas</title>
   </programme>
-  <programme start="20201004070000 +0100" stop="20201004080000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
+  <programme start="20201008054700 +0100" stop="20201008061700 +0100" channel="BTV1">
+    <title lang="pt">A Opinião de Fernando Seara</title>
   </programme>
-  <programme start="20201004080000 +0100" stop="20201004083000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
+  <programme start="20201008061700 +0100" stop="20201008064700 +0100" channel="BTV1">
+    <title lang="pt">Cine BTV</title>
   </programme>
-  <programme start="20201004083000 +0100" stop="20201004090000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
+  <programme start="20201008064700 +0100" stop="20201008071900 +0100" channel="BTV1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
   </programme>
-  <programme start="20201004090000 +0100" stop="20201004093000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
+  <programme start="20201008071900 +0100" stop="20201008074400 +0100" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20201004093000 +0100" stop="20201004100000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
+  <programme start="20201008074400 +0100" stop="20201008092900 +0100" channel="BTV1">
+    <title lang="pt">Liga NOS - SLB x Farense - 3ª Jornada - Rep</title>
   </programme>
-  <programme start="20201004100000 +0100" stop="20201004103000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">NFL Extra</title>
+  <programme start="20201008092900 +0100" stop="20201008095900 +0100" channel="BTV1">
+    <title lang="pt">A Opinião de Fernando Seara</title>
   </programme>
-  <programme start="20201004103000 +0100" stop="20201004110000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Entrevista</title>
+  <programme start="20201008095900 +0100" stop="20201008103200 +0100" channel="BTV1">
+    <title lang="pt">Benfica 10 Horas</title>
   </programme>
-  <programme start="20201004110000 +0100" stop="20201004130000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Osasuna x Celta (Direto)</title>
+  <programme start="20201008103200 +0100" stop="20201008115400 +0100" channel="BTV1">
+    <title lang="pt">As Lanças Apontadas</title>
   </programme>
-  <programme start="20201004130000 +0100" stop="20201004150000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Alavés x At. Bilbao (Direto)</title>
+  <programme start="20201008115400 +0100" stop="20201008122200 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20201004150000 +0100" stop="20201004170000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Levante x Real Madrid (Direto)</title>
+  <programme start="20201008122200 +0100" stop="20201008134600 +0100" channel="BTV1">
+    <title lang="pt">Andebol - SLB x ADA Maia/ISMAI - Rep</title>
   </programme>
-  <programme start="20201004170000 +0100" stop="20201004173000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Entrevista</title>
+  <programme start="20201008134600 +0100" stop="20201008141600 +0100" channel="BTV1">
+    <title lang="pt">Benfica 14 Horas</title>
   </programme>
-  <programme start="20201004173000 +0100" stop="20201004193000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Cádiz x Granada (Direto)</title>
+  <programme start="20201008141600 +0100" stop="20201008144600 +0100" channel="BTV1">
+    <title lang="pt">Cine BTV</title>
   </programme>
-  <programme start="20201004193000 +0100" stop="20201004200000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga Entrevista</title>
+  <programme start="20201008144600 +0100" stop="20201008151400 +0100" channel="BTV1">
+    <title lang="pt">Pelas Casas do Benfica</title>
   </programme>
-  <programme start="20201004200000 +0100" stop="20201004220000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Barcelona x Sevilha (Direto)</title>
+  <programme start="20201008151400 +0100" stop="20201008154300 +0100" channel="BTV1">
+    <title lang="pt">De Casa Para Casa</title>
   </programme>
-  <programme start="20201004220000 +0100" stop="20201004223000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga World</title>
+  <programme start="20201008154300 +0100" stop="20201008161300 +0100" channel="BTV1">
+    <title lang="pt">Jornal O Benfica</title>
   </programme>
-  <programme start="20201004223000 +0100" stop="20201004230000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Especial: Leroy Sané - Um Legado Bundesliga</title>
+  <programme start="20201008161300 +0100" stop="20201008164600 +0100" channel="BTV1">
+    <title lang="pt">Contas Feitas Dúvidas Desfeitas</title>
   </programme>
-  <programme start="20201004230000 +0100" stop="20201004233000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga Chronicles</title>
+  <programme start="20201008164600 +0100" stop="20201008171500 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20201004233000 +0100" stop="20201005000000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UEFA Champions League Magazine</title>
+  <programme start="20201008171500 +0100" stop="20201008181700 +0100" channel="BTV1">
+    <title lang="pt">Grandes Adeptos SLB</title>
   </programme>
-  <programme start="20201005000000 +0100" stop="20201005004500 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga Talking Football</title>
+  <programme start="20201008181700 +0100" stop="20201008184500 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
   </programme>
-  <programme start="20201005004500 +0100" stop="20201005012000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">NFL Extra</title>
+  <programme start="20201008184500 +0100" stop="20201008203000 +0100" channel="BTV1">
+    <title lang="pt">Futebol Feminino - SLB x At. Ouriense - Rep</title>
   </programme>
-  <programme start="20201005012000 +0100" stop="20201005043000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">NFL - 49Ers x Eagles (Direto)</title>
+  <programme start="20201008203000 +0100" stop="20201008210000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20201005043000 +0100" stop="20201005050000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">NFL Extra</title>
+  <programme start="20201008210000 +0100" stop="20201008223100 +0100" channel="BTV1">
+    <title lang="pt">Aquecimento</title>
   </programme>
-  <programme start="20201005050000 +0100" stop="20201005053000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League Extra</title>
+  <programme start="20201008223100 +0100" stop="20201008225700 +0100" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20201005053000 +0100" stop="20201005060000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UCL - As Melhores Finais da História</title>
+  <programme start="20201008225700 +0100" stop="20201008232500 +0100" channel="BTV1">
+    <title lang="pt">Pelas Casas do Benfica</title>
   </programme>
-  <programme start="20201005060000 +0100" stop="20201005070000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
+  <programme start="20201008232500 +0100" stop="20201008235300 +0100" channel="BTV1">
+    <title lang="pt">De Casa Para Casa</title>
   </programme>
-  <programme start="20201005070000 +0100" stop="20201005080000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League - Jogos Clássicos</title>
+  <programme start="20201008235300 +0100" stop="20201009002400 +0100" channel="BTV1">
+    <title lang="pt">Jornal O Benfica</title>
   </programme>
-  <programme start="20201005080000 +0100" stop="20201005083000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League Extra</title>
+  <programme start="20201009002400 +0100" stop="20201009012400 +0100" channel="BTV1">
+    <title lang="pt">Grandes Adeptos SLB</title>
   </programme>
-  <programme start="20201005083000 +0100" stop="20201005084500 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Monster Energy - Darkfest</title>
+  <programme start="20201009012400 +0100" stop="20201009015200 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
   </programme>
-  <programme start="20201005084500 +0100" stop="20201005090000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Monster Energy - X Games</title>
+  <programme start="20201009015200 +0100" stop="20201009032300 +0100" channel="BTV1">
+    <title lang="pt">Aquecimento</title>
   </programme>
-  <programme start="20201005090000 +0100" stop="20201005091500 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Monster Energy - Audi Nines</title>
+  <programme start="20201009032300 +0100" stop="20201009034800 +0100" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20201005091500 +0100" stop="20201005093000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Monster Energy - Street League</title>
+  <programme start="20201009034800 +0100" stop="20201009050000 +0100" channel="BTV1">
+    <title lang="pt">Pelas Casas do Benfica</title>
   </programme>
-  <programme start="20201005093000 +0100" stop="20201005100000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League Extra</title>
+  <programme start="20201009050000 +0100" stop="20201009053000 +0100" channel="BTV1">
+    <title lang="pt">De Casa Para Casa</title>
   </programme>
-  <programme start="20201005100000 +0100" stop="20201005120000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Levante x Real Madrid</title>
+  <programme start="20201009053000 +0100" stop="20201009060000 +0100" channel="BTV1">
+    <title lang="pt">Jornal O Benfica</title>
   </programme>
-  <programme start="20201005120000 +0100" stop="20201005123000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Especial: Leroy Sané - Um Legado Bundesliga</title>
+  <programme start="20201009060000 +0100" stop="20201009061500 +0100" channel="BTV1">
+    <title lang="pt">Os Momentos + Incríveis do Desporto</title>
   </programme>
-  <programme start="20201005123000 +0100" stop="20201005143000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Champions League - AC Omonia x Olympiacos</title>
+  <programme start="20201009061500 +0100" stop="20201009063000 +0100" channel="BTV1">
+    <title lang="pt">B Quiz</title>
   </programme>
-  <programme start="20201005143000 +0100" stop="20201005150000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UEFA Champions League Magazine</title>
+  <programme start="20201009063000 +0100" stop="20201009070000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20201005150000 +0100" stop="20201005171500 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">NFL - 49Ers x Eagles</title>
+  <programme start="20201009070000 +0100" stop="20201009083000 +0100" channel="BTV1">
+    <title lang="pt">Aquecimento</title>
   </programme>
-  <programme start="20201005171500 +0100" stop="20201005174500 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">NFL Extra</title>
+  <programme start="20201009083000 +0100" stop="20201009090000 +0100" channel="BTV1">
+    <title lang="pt">Pelas Casas do Benfica</title>
   </programme>
-  <programme start="20201005174500 +0100" stop="20201005181500 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Especial: Leroy Sané - Um Legado Bundesliga</title>
+  <programme start="20201009090000 +0100" stop="20201009093000 +0100" channel="BTV1">
+    <title lang="pt">Jornal O Benfica</title>
   </programme>
-  <programme start="20201005181500 +0100" stop="20201005193000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">UCL - O Filme da Competição</title>
+  <programme start="20201009093000 +0100" stop="20201009100000 +0100" channel="BTV1">
+    <title lang="pt">José Nuno Martins</title>
   </programme>
-  <programme start="20201005193000 +0100" stop="20201005213000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Bundesliga 2 - FC Nürnberg x Darmstadt (Direto)</title>
+  <programme start="20201009100000 +0100" stop="20201009103000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 10 Horas</title>
   </programme>
-  <programme start="20201005213000 +0100" stop="20201005230000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Planeta Eleven (Direto)</title>
+  <programme start="20201009103000 +0100" stop="20201009113000 +0100" channel="BTV1">
+    <title lang="pt">Grandes Adeptos SLB</title>
   </programme>
-  <programme start="20201005230000 +0100" stop="20201006000000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">La Liga - Resumos da Jornada</title>
+  <programme start="20201009113000 +0100" stop="20201009120000 +0100" channel="BTV1">
+    <title lang="pt">Leonor Pinhão</title>
   </programme>
-  <programme start="20201006000000 +0100" stop="20201006010000 +0100" channel="ElevenSports1.pt">
-    <title lang="pt">Bundesliga - Resumos da Jornada</title>
+  <programme start="20201009120000 +0100" stop="20201009123000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201009123000 +0100" stop="20201009140000 +0100" channel="BTV1">
+    <title lang="pt">Futsal - Dínamo Sanjoanense x SLB - Rep</title>
+  </programme>
+  <programme start="20201009140000 +0100" stop="20201009143000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 14 Horas</title>
+  </programme>
+  <programme start="20201009143000 +0100" stop="20201009150000 +0100" channel="BTV1">
+    <title lang="pt">A Opinião de Fernando Seara</title>
+  </programme>
+  <programme start="20201009150000 +0100" stop="20201009163000 +0100" channel="BTV1">
+    <title lang="pt">Aquecimento</title>
+  </programme>
+  <programme start="20201009163000 +0100" stop="20201009170000 +0100" channel="BTV1">
+    <title lang="pt">Aqui Mando Eu</title>
+  </programme>
+  <programme start="20201009170000 +0100" stop="20201009173000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201009173000 +0100" stop="20201009180000 +0100" channel="BTV1">
+    <title lang="pt">Pelas Casas do Benfica</title>
+  </programme>
+  <programme start="20201009180000 +0100" stop="20201009183000 +0100" channel="BTV1">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20201009183000 +0100" stop="20201009190000 +0100" channel="BTV1">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20201009190000 +0100" stop="20201009210000 +0100" channel="BTV1">
+    <title lang="pt">Segunda Liga - Benfica B x Estoril - Rep</title>
+  </programme>
+  <programme start="20201009210000 +0100" stop="20201009213000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20201009213000 +0100" stop="20201009230000 +0100" channel="BTV1">
+    <title lang="pt">Especial Informação BTV</title>
+  </programme>
+  <programme start="20201009230000 +0100" stop="20201009233000 +0100" channel="BTV1">
+    <title lang="pt">Benfica 24 Horas</title>
+  </programme>
+  <programme start="20201009233000 +0100" stop="20201010000000 +0100" channel="BTV1">
+    <title lang="pt">Uma Semana do Melhor</title>
   </programme>
   <programme start="20201006010000 +0100" stop="20201006020000 +0100" channel="ElevenSports1.pt">
     <title lang="pt">Ligue 1 - Resumos da Jornada</title>
@@ -1805,113 +1730,158 @@
   <programme start="20201007233000 +0100" stop="20201008000000 +0100" channel="ElevenSports1.pt">
     <title lang="pt">Jupiler Pro League - Resumos da Jornada</title>
   </programme>
-  <programme start="20201004020000 +0100" stop="20201004040000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - Nice x Nantes</title>
+  <programme start="20201008000000 +0100" stop="20201008020000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - PAOK x Krasnodar</title>
   </programme>
-  <programme start="20201004040000 +0100" stop="20201004041500 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Audi Nines</title>
+  <programme start="20201008020000 +0100" stop="20201008030000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
   </programme>
-  <programme start="20201004041500 +0100" stop="20201004043000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Street League</title>
+  <programme start="20201008030000 +0100" stop="20201008040000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
   </programme>
-  <programme start="20201004043000 +0100" stop="20201004044500 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Night Shift</title>
+  <programme start="20201008040000 +0100" stop="20201008050000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
   </programme>
-  <programme start="20201004044500 +0100" stop="20201004050000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Mirador</title>
+  <programme start="20201008050000 +0100" stop="20201008053000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League Extra</title>
   </programme>
-  <programme start="20201004050000 +0100" stop="20201004070000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - Mónaco x Strasbourg</title>
+  <programme start="20201008053000 +0100" stop="20201008060000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
-  <programme start="20201004070000 +0100" stop="20201004090000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Bundesliga - RB Leipzig x Schalke</title>
+  <programme start="20201008060000 +0100" stop="20201008070000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
   </programme>
-  <programme start="20201004090000 +0100" stop="20201004091500 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Audi Nines</title>
+  <programme start="20201008070000 +0100" stop="20201008080000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
   </programme>
-  <programme start="20201004091500 +0100" stop="20201004093000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Street League</title>
+  <programme start="20201008080000 +0100" stop="20201008083000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League Extra</title>
   </programme>
-  <programme start="20201004093000 +0100" stop="20201004094500 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Night Shift</title>
+  <programme start="20201008083000 +0100" stop="20201008093000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UCL - O Filme da Competição</title>
   </programme>
-  <programme start="20201004094500 +0100" stop="20201004120000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">La Liga - Cádiz x Sevilha</title>
+  <programme start="20201008093000 +0100" stop="20201008100000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League Extra</title>
   </programme>
-  <programme start="20201004120000 +0100" stop="20201004140000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - Montpellier x Nîmes (Direto)</title>
+  <programme start="20201008100000 +0100" stop="20201008110000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Ligue 1 - Resumos da Jornada</title>
   </programme>
-  <programme start="20201004140000 +0100" stop="20201004143000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">À Conversa Com o Talento</title>
+  <programme start="20201008110000 +0100" stop="20201008120000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">La Liga - Resumos da Jornada</title>
   </programme>
-  <programme start="20201004143000 +0100" stop="20201004163000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Bundesliga - Wolfsburg x Augsburg (Direto)</title>
+  <programme start="20201008120000 +0100" stop="20201008123000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">La Liga World</title>
   </programme>
-  <programme start="20201004163000 +0100" stop="20201004170000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">À Conversa Com o Talento</title>
+  <programme start="20201008123000 +0100" stop="20201008143000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Salzburg x Maccabi Tel Aviv</title>
   </programme>
-  <programme start="20201004170000 +0100" stop="20201004190000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Bundesliga - B. Munique x Hertha (Direto)</title>
+  <programme start="20201008143000 +0100" stop="20201008150000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UCL - As Melhores Finais da História</title>
   </programme>
-  <programme start="20201004190000 +0100" stop="20201004200000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">La Liga Talking Football</title>
+  <programme start="20201008150000 +0100" stop="20201008180000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">NFL - Jets x Broncos</title>
   </programme>
-  <programme start="20201004200000 +0100" stop="20201004220000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - Lyon x Marseille (Direto)</title>
+  <programme start="20201008180000 +0100" stop="20201008183000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Bundesliga Special Report</title>
   </programme>
-  <programme start="20201004220000 +0100" stop="20201005000000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Bundesliga - B. Munique x Hertha</title>
+  <programme start="20201008183000 +0100" stop="20201008193000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Segunda Liga Espanhola - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005000000 +0100" stop="20201005020000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Liga ACB - Gran Canaria x Real Madrid Baloncesto</title>
+  <programme start="20201008193000 +0100" stop="20201008213000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Taça da Liga Escocesa - Hearts x Inverness</title>
   </programme>
-  <programme start="20201005020000 +0100" stop="20201005040000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - Brest x Mónaco</title>
+  <programme start="20201008213000 +0100" stop="20201008220000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">La Liga Chronicles</title>
   </programme>
-  <programme start="20201005040000 +0100" stop="20201005041500 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Night Shift</title>
+  <programme start="20201008220000 +0100" stop="20201008221500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Liga ACB - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005041500 +0100" stop="20201005043000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Mirador</title>
+  <programme start="20201008221500 +0100" stop="20201008224500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Bundesliga Weekly</title>
   </programme>
-  <programme start="20201005043000 +0100" stop="20201005044500 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Loosefest</title>
+  <programme start="20201008224500 +0100" stop="20201009004500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Salzburg x Maccabi Tel Aviv</title>
   </programme>
-  <programme start="20201005044500 +0100" stop="20201005050000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Monster Energy - Battle Of Hastings</title>
-  </programme>
-  <programme start="20201005050000 +0100" stop="20201005070000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - PSG x Angers</title>
-  </programme>
-  <programme start="20201005070000 +0100" stop="20201005090000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">La Liga - Valladolid x Eibar</title>
-  </programme>
-  <programme start="20201005090000 +0100" stop="20201005110000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Bundesliga - Union Berlin x Mainz</title>
-  </programme>
-  <programme start="20201005110000 +0100" stop="20201005130000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - PSG x Angers</title>
-  </programme>
-  <programme start="20201005130000 +0100" stop="20201005150000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">La Liga - Valladolid x Eibar</title>
-  </programme>
-  <programme start="20201005150000 +0100" stop="20201005170000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Bundesliga - Union Berlin x Mainz</title>
-  </programme>
-  <programme start="20201005170000 +0100" stop="20201005190000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - Brest x Mónaco</title>
-  </programme>
-  <programme start="20201005190000 +0100" stop="20201005210000 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">La Liga - Levante x Real Madrid</title>
-  </programme>
-  <programme start="20201005210000 +0100" stop="20201005213000 +0100" channel="ElevenSports2.pt">
+  <programme start="20201009004500 +0100" stop="20201009012000 +0100" channel="ElevenSports1.pt">
     <title lang="pt">NFL Extra</title>
   </programme>
-  <programme start="20201005213000 +0100" stop="20201005234500 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">NFL - 49Ers x Eagles</title>
+  <programme start="20201009012000 +0100" stop="20201009043000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">NFL - Bears x Buccaneers (Direto)</title>
   </programme>
-  <programme start="20201005234500 +0100" stop="20201006014500 +0100" channel="ElevenSports2.pt">
-    <title lang="pt">Ligue 1 2020-21 - Brest x Mónaco</title>
+  <programme start="20201009043000 +0100" stop="20201009050000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20201009050000 +0100" stop="20201009053000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20201009053000 +0100" stop="20201009060000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UCL - As Melhores Finais da História</title>
+  </programme>
+  <programme start="20201009060000 +0100" stop="20201009070000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
+  </programme>
+  <programme start="20201009070000 +0100" stop="20201009080000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League - Jogos Clássicos</title>
+  </programme>
+  <programme start="20201009080000 +0100" stop="20201009083000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20201009083000 +0100" stop="20201009090000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UCL - As Melhores Finais da História</title>
+  </programme>
+  <programme start="20201009090000 +0100" stop="20201009093000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UCL - As Melhores Finais da História</title>
+  </programme>
+  <programme start="20201009093000 +0100" stop="20201009100000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Champions League Extra</title>
+  </programme>
+  <programme start="20201009100000 +0100" stop="20201009130000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">City TV Magazine</title>
+  </programme>
+  <programme start="20201009130000 +0100" stop="20201009134500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">La Liga Talking Football</title>
+  </programme>
+  <programme start="20201009134500 +0100" stop="20201009141500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UEFA Champions League Magazine</title>
+  </programme>
+  <programme start="20201009141500 +0100" stop="20201009150000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Bundesliga Special</title>
+  </programme>
+  <programme start="20201009150000 +0100" stop="20201009170000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Futsal - ElPozo Murcia x MFK Tyumen (Direto)</title>
+  </programme>
+  <programme start="20201009170000 +0100" stop="20201009173000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Bundesliga Special Report</title>
+  </programme>
+  <programme start="20201009173000 +0100" stop="20201009180000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Especial: Leroy Sané - Um Legado Bundesliga</title>
+  </programme>
+  <programme start="20201009180000 +0100" stop="20201009181500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Scottish Premiership - Resumos da Jornada</title>
+  </programme>
+  <programme start="20201009181500 +0100" stop="20201009184500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">La Liga Chronicles</title>
+  </programme>
+  <programme start="20201009184500 +0100" stop="20201009200000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UCL - O Filme da Competição</title>
+  </programme>
+  <programme start="20201009200000 +0100" stop="20201009220000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Futsal - Barcelona x MFK KPRF (Direto)</title>
+  </programme>
+  <programme start="20201009220000 +0100" stop="20201009221500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Midweek Interview</title>
+  </programme>
+  <programme start="20201009221500 +0100" stop="20201009224500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">NFL Extra</title>
+  </programme>
+  <programme start="20201009224500 +0100" stop="20201009230000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">Liga ACB - Resumos da Jornada</title>
+  </programme>
+  <programme start="20201009230000 +0100" stop="20201009233000 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">UEFA Champions League Magazine</title>
+  </programme>
+  <programme start="20201009233000 +0100" stop="20201010014500 +0100" channel="ElevenSports1.pt">
+    <title lang="pt">NFL - Bears x Buccaneers</title>
   </programme>
   <programme start="20201006014500 +0100" stop="20201006034500 +0100" channel="ElevenSports2.pt">
     <title lang="pt">La Liga - At. Madrid x Villarreal</title>
@@ -2000,92 +1970,98 @@
   <programme start="20201007230000 +0100" stop="20201008010000 +0100" channel="ElevenSports2.pt">
     <title lang="pt">La Liga - Real Sociedad x Getafe</title>
   </programme>
-  <programme start="20201004004500 +0100" stop="20201004013000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Automobilismo - TCR Monza - Ronda 5</title>
+  <programme start="20201008010000 +0100" stop="20201008030000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Ligue 1 2020-21 - Montpellier x Nîmes</title>
   </programme>
-  <programme start="20201004013000 +0100" stop="20201004021500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Automobilismo - TCR Monza - Ronda 6</title>
+  <programme start="20201008030000 +0100" stop="20201008050000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Bundesliga - B. Munique x Hertha</title>
   </programme>
-  <programme start="20201004021500 +0100" stop="20201004023000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Best Onboards</title>
+  <programme start="20201008050000 +0100" stop="20201008070000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Ligue 1 2020-21 - Brest x Mónaco</title>
   </programme>
-  <programme start="20201004023000 +0100" stop="20201004050000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20201008070000 +0100" stop="20201008090000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">La Liga - Valência x Bétis</title>
   </programme>
-  <programme start="20201004050000 +0100" stop="20201004100000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20201008090000 +0100" stop="20201008110000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Bundesliga - E. Frankfurt x Hoffenheim</title>
   </programme>
-  <programme start="20201004100000 +0100" stop="20201004113000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 2 - GP Rússia - Corrida 1</title>
+  <programme start="20201008110000 +0100" stop="20201008130000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Ligue 1 2020-21 - Brest x Mónaco</title>
   </programme>
-  <programme start="20201004113000 +0100" stop="20201004124500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 2 - GP Rússia - Corrida 2</title>
+  <programme start="20201008130000 +0100" stop="20201008150000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">La Liga - Valência x Bétis</title>
   </programme>
-  <programme start="20201004124500 +0100" stop="20201004140000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Porsche Supercup - Bélgica - Corrida</title>
+  <programme start="20201008150000 +0100" stop="20201008170000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Bundesliga - E. Frankfurt x Hoffenheim</title>
   </programme>
-  <programme start="20201004140000 +0100" stop="20201004160000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Ligue 1 2020-21 - Brest x Mónaco (Direto)</title>
+  <programme start="20201008170000 +0100" stop="20201008180000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Ligue 1 - Resumos da Jornada</title>
   </programme>
-  <programme start="20201004160000 +0100" stop="20201004180000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Ligue 1 2020-21 - Rennes x Reims (Direto)</title>
+  <programme start="20201008180000 +0100" stop="20201008190000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">La Liga - Resumos da Jornada</title>
   </programme>
-  <programme start="20201004180000 +0100" stop="20201004200000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 1 - GP Rússia - Resumo</title>
+  <programme start="20201008190000 +0100" stop="20201008200000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Bundesliga - Resumos da Jornada</title>
   </programme>
-  <programme start="20201004200000 +0100" stop="20201004212500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Porsche Supercup - 70 Anos F1 - Corrida</title>
+  <programme start="20201008200000 +0100" stop="20201008203000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Championship - Resumos da Jornada</title>
   </programme>
-  <programme start="20201004212500 +0100" stop="20201005003000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">NFL - Chiefs x Patriots (Direto)</title>
+  <programme start="20201008203000 +0100" stop="20201008224500 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Liverpool TV - Magazine</title>
   </programme>
-  <programme start="20201005003000 +0100" stop="20201005023000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 1 - GP Rússia - Resumo</title>
+  <programme start="20201008224500 +0100" stop="20201008233000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">La Liga Talking Football</title>
   </programme>
-  <programme start="20201005023000 +0100" stop="20201005050000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20201008233000 +0100" stop="20201009023000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">City TV Magazine</title>
   </programme>
-  <programme start="20201005050000 +0100" stop="20201005100000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Sem Emissão</title>
+  <programme start="20201009023000 +0100" stop="20201009033000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">La Liga - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005100000 +0100" stop="20201005110000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Porsche Supercup - Espanha - Corrida</title>
+  <programme start="20201009033000 +0100" stop="20201009043000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Bundesliga - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005110000 +0100" stop="20201005120000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 3 - GP Espanha - Corrida 1</title>
+  <programme start="20201009043000 +0100" stop="20201009050000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Championship - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005120000 +0100" stop="20201005130000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 3 - GP Espanha - Corrida 2</title>
+  <programme start="20201009050000 +0100" stop="20201009070000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Ligue 1 2020-21 - Bordeaux x Dijon</title>
   </programme>
-  <programme start="20201005130000 +0100" stop="20201005143000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 2 - GP Espanha - Corrida 1</title>
+  <programme start="20201009070000 +0100" stop="20201009090000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">La Liga - Levante x Real Madrid</title>
   </programme>
-  <programme start="20201005143000 +0100" stop="20201005154500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 2 - GP Espanha - Corrida 2</title>
+  <programme start="20201009090000 +0100" stop="20201009110000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Bundesliga - RB Leipzig x Schalke</title>
   </programme>
-  <programme start="20201005154500 +0100" stop="20201005174500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 1 2020 - GP Espanha - Resumo</title>
+  <programme start="20201009110000 +0100" stop="20201009130000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Ligue 1 2020-21 - Bordeaux x Dijon</title>
   </programme>
-  <programme start="20201005174500 +0100" stop="20201005183000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Automobilismo - TCR Europe - Ronda 1</title>
+  <programme start="20201009130000 +0100" stop="20201009150000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">La Liga - Levante x Real Madrid</title>
   </programme>
-  <programme start="20201005183000 +0100" stop="20201005191500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Automobilismo - TCR Europe - Ronda 2</title>
+  <programme start="20201009150000 +0100" stop="20201009170000 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Bundesliga - RB Leipzig x Schalke</title>
   </programme>
-  <programme start="20201005191500 +0100" stop="20201005194500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fora de Estrada</title>
+  <programme start="20201009170000 +0100" stop="20201009171500 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Scottish Premiership - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005194500 +0100" stop="20201005204500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 3 - GP Espanha - Corrida 1</title>
+  <programme start="20201009171500 +0100" stop="20201009174500 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Championship - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005204500 +0100" stop="20201005214500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 3 - GP Espanha - Corrida 2</title>
+  <programme start="20201009174500 +0100" stop="20201009184500 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Segunda Liga Espanhola - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005214500 +0100" stop="20201005231500 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 2 - GP Espanha - Corrida 1</title>
+  <programme start="20201009184500 +0100" stop="20201009191500 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Jupiler Pro League - Resumos da Jornada</title>
   </programme>
-  <programme start="20201005231500 +0100" stop="20201006003000 +0100" channel="ElevenSports3.pt">
-    <title lang="pt">Fórmula 2 - GP Espanha - Corrida 2</title>
+  <programme start="20201009191500 +0100" stop="20201009194500 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Scottish Premiership - Resumos da Jornada</title>
+  </programme>
+  <programme start="20201009194500 +0100" stop="20201009214500 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Taça da Liga Escocesa - Dunfermline x Falkirk (Direto)</title>
+  </programme>
+  <programme start="20201009214500 +0100" stop="20201010004500 +0100" channel="ElevenSports2.pt">
+    <title lang="pt">Juventus TV</title>
   </programme>
   <programme start="20201006003000 +0100" stop="20201006023000 +0100" channel="ElevenSports3.pt">
     <title lang="pt">Fórmula 1 2020 - GP Espanha - Resumo</title>
@@ -2186,89 +2162,110 @@
   <programme start="20201007230000 +0100" stop="20201008001500 +0100" channel="ElevenSports3.pt">
     <title lang="pt">Fórmula 2 - GP Itália - Corrida 2</title>
   </programme>
-  <programme start="20201004010000 +0100" stop="20201004020000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA GameTime</title>
+  <programme start="20201008001500 +0100" stop="20201008003000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Itália - Os Melhores Team Radios</title>
   </programme>
-  <programme start="20201004020000 +0100" stop="20201004040000 +0100" channel="NBA.pt">
-    <title lang="pt">Marquee Matchup - Heat x Celtics - April 1St, 2019</title>
+  <programme start="20201008003000 +0100" stop="20201008023000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Itália - Resumo</title>
   </programme>
-  <programme start="20201004040000 +0100" stop="20201004050000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA GameTime</title>
+  <programme start="20201008023000 +0100" stop="20201008050000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201004050000 +0100" stop="20201004070000 +0100" channel="NBA.pt">
-    <title lang="pt">Marquee Matchup - Rockets x Heat - December 12Th 2018</title>
+  <programme start="20201008050000 +0100" stop="20201008100000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201004070000 +0100" stop="20201004080000 +0100" channel="NBA.pt">
-    <title lang="pt">2020 NBA Finals - Heat x Lakers - Game 1</title>
+  <programme start="20201008100000 +0100" stop="20201008110000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Entrevista Eleven - António Félix da Costa</title>
   </programme>
-  <programme start="20201004080000 +0100" stop="20201004100000 +0100" channel="NBA.pt">
-    <title lang="pt">Marquee Matchup - Bucks x Lakers - March 1St, 2019</title>
+  <programme start="20201008110000 +0100" stop="20201008120000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 3 - Toscânia - Ferrari 1000 - Corrida 1</title>
   </programme>
-  <programme start="20201004100000 +0100" stop="20201004110000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA GameTime</title>
+  <programme start="20201008120000 +0100" stop="20201008130000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 3 - GP Toscânia - Corrida 2</title>
   </programme>
-  <programme start="20201004110000 +0100" stop="20201004130000 +0100" channel="NBA.pt">
-    <title lang="pt">Marquee Matchup - Celtics x Lakers - March 9Th 2019</title>
+  <programme start="20201008130000 +0100" stop="20201008143000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 2 - GP Toscânia - Corrida 1</title>
   </programme>
-  <programme start="20201004130000 +0100" stop="20201004140000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA GameTime</title>
+  <programme start="20201008143000 +0100" stop="20201008153000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 2 - GP Toscânia - Corrida 2</title>
   </programme>
-  <programme start="20201004140000 +0100" stop="20201004160000 +0100" channel="NBA.pt">
-    <title lang="pt">Marquee Matchup - Heat x Celtics - April 1St, 2019</title>
+  <programme start="20201008153000 +0100" stop="20201008154500 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Toscânia - Os Melhores On Boards</title>
   </programme>
-  <programme start="20201004160000 +0100" stop="20201004170000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA GameTime</title>
+  <programme start="20201008154500 +0100" stop="20201008174500 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Toscânia - Resumo</title>
   </programme>
-  <programme start="20201004170000 +0100" stop="20201004190000 +0100" channel="NBA.pt">
-    <title lang="pt">2019 Playoff Playback - Raptors x Bucks - East Finals Game 1</title>
+  <programme start="20201008174500 +0100" stop="20201008180000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Toscânia - Os Melhores On Boards</title>
   </programme>
-  <programme start="20201004190000 +0100" stop="20201004210000 +0100" channel="NBA.pt">
-    <title lang="pt">2019 Playoff Playback - Raptors x Bucks - East Finals Game 2</title>
+  <programme start="20201008180000 +0100" stop="20201008190000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Entrevista Eleven - António Félix da Costa</title>
   </programme>
-  <programme start="20201004210000 +0100" stop="20201004220000 +0100" channel="NBA.pt">
-    <title lang="pt">2020 NBA Finals - Heat x Lakers - Game 2</title>
+  <programme start="20201008190000 +0100" stop="20201008193000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Alta Velocidade</title>
   </programme>
-  <programme start="20201004220000 +0100" stop="20201004223000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA Together With Steve Nash</title>
+  <programme start="20201008193000 +0100" stop="20201008203000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 3 - Toscânia - Ferrari 1000 - Corrida 1</title>
   </programme>
-  <programme start="20201004223000 +0100" stop="20201005000000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA 2020 Pregame (Direto)</title>
+  <programme start="20201008203000 +0100" stop="20201008213000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 3 - GP Toscânia - Corrida 2</title>
   </programme>
-  <programme start="20201005000000 +0100" stop="20201005020000 +0100" channel="NBA.pt">
-    <title lang="pt">2019 Playoff Playback - Bucks x Raptors - East Finals Game 3</title>
+  <programme start="20201008213000 +0100" stop="20201008230000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 2 - GP Toscânia - Corrida 1</title>
   </programme>
-  <programme start="20201005020000 +0100" stop="20201005030000 +0100" channel="NBA.pt">
-    <title lang="pt">2020 NBA Finals - Heat x Lakers - Game 2</title>
+  <programme start="20201008230000 +0100" stop="20201009000000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 - Conferência de Imprensa de Pilotos</title>
   </programme>
-  <programme start="20201005030000 +0100" stop="20201005043000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA 2020 Postgame (Direto)</title>
+  <programme start="20201009000000 +0100" stop="20201009003000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Alta Velocidade</title>
   </programme>
-  <programme start="20201005043000 +0100" stop="20201005160000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA 2020 Postgame</title>
+  <programme start="20201009003000 +0100" stop="20201009023000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Toscânia - Resumo</title>
   </programme>
-  <programme start="20201005160000 +0100" stop="20201005170000 +0100" channel="NBA.pt">
-    <title lang="pt">2020 NBA Finals - Game 2 Cutdown</title>
+  <programme start="20201009023000 +0100" stop="20201009050000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201005170000 +0100" stop="20201005190000 +0100" channel="NBA.pt">
-    <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 1</title>
+  <programme start="20201009050000 +0100" stop="20201009083000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20201005190000 +0100" stop="20201005210000 +0100" channel="NBA.pt">
-    <title lang="pt">2020 NBA Finals - Media Day (Direto)</title>
+  <programme start="20201009083000 +0100" stop="20201009100000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 - Conferência de Imprensa de Pilotos</title>
   </programme>
-  <programme start="20201005210000 +0100" stop="20201005220000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA On TNT - The Arena</title>
+  <programme start="20201009100000 +0100" stop="20201009114500 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Eifel - Treinos Livres 1 (Direto)</title>
   </programme>
-  <programme start="20201005220000 +0100" stop="20201005223000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA Action</title>
+  <programme start="20201009114500 +0100" stop="20201009124500 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Entrevista Eleven - António Félix da Costa</title>
   </programme>
-  <programme start="20201005223000 +0100" stop="20201005230000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA Special - Where The Buzz Began</title>
+  <programme start="20201009124500 +0100" stop="20201009130000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Best Onboards</title>
   </programme>
-  <programme start="20201005230000 +0100" stop="20201006000000 +0100" channel="NBA.pt">
-    <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 2</title>
+  <programme start="20201009130000 +0100" stop="20201009140000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Alta Velocidade</title>
   </programme>
-  <programme start="20201006000000 +0100" stop="20201006003000 +0100" channel="NBA.pt">
-    <title lang="pt">NBA Action</title>
+  <programme start="20201009140000 +0100" stop="20201009154500 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Eifel - Treinos Livres 2 (Direto)</title>
+  </programme>
+  <programme start="20201009154500 +0100" stop="20201009174500 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 - GP Rússia - Resumo</title>
+  </programme>
+  <programme start="20201009174500 +0100" stop="20201009194500 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Eifel - Treinos Livres 2</title>
+  </programme>
+  <programme start="20201009194500 +0100" stop="20201009204500 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Entrevista Eleven - António Félix da Costa</title>
+  </programme>
+  <programme start="20201009204500 +0100" stop="20201009210000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Best Onboards</title>
+  </programme>
+  <programme start="20201009210000 +0100" stop="20201009230000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 - GP Rússia - Resumo</title>
+  </programme>
+  <programme start="20201009230000 +0100" stop="20201009233000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 - GP Confidential</title>
+  </programme>
+  <programme start="20201009233000 +0100" stop="20201010013000 +0100" channel="ElevenSports3.pt">
+    <title lang="pt">Fórmula 1 2020 - GP Eifel - Treinos Livres 2</title>
   </programme>
   <programme start="20201006003000 +0100" stop="20201006010000 +0100" channel="NBA.pt">
     <title lang="pt">NBA Special - Where The Buzz Began</title>
@@ -2376,6 +2373,114 @@
     <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 2</title>
   </programme>
   <programme start="20201007230000 +0100" stop="20201008010000 +0100" channel="NBA.pt">
+    <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 3</title>
+  </programme>
+  <programme start="20201008010000 +0100" stop="20201008020000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201008020000 +0100" stop="20201008040000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA TV Film Room - NBA Finals</title>
+  </programme>
+  <programme start="20201008040000 +0100" stop="20201008050000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201008050000 +0100" stop="20201008070000 +0100" channel="NBA.pt">
+    <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 1</title>
+  </programme>
+  <programme start="20201008070000 +0100" stop="20201008090000 +0100" channel="NBA.pt">
+    <title lang="pt">2020 NBA Finals - Game Cutdown</title>
+  </programme>
+  <programme start="20201008090000 +0100" stop="20201008100000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA On TNT - The Arena</title>
+  </programme>
+  <programme start="20201008100000 +0100" stop="20201008110000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201008110000 +0100" stop="20201008130000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA TV Film Room - NBA Finals</title>
+  </programme>
+  <programme start="20201008130000 +0100" stop="20201008150000 +0100" channel="NBA.pt">
+    <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 3</title>
+  </programme>
+  <programme start="20201008150000 +0100" stop="20201008170000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201008170000 +0100" stop="20201008190000 +0100" channel="NBA.pt">
+    <title lang="pt">2020 NBA Finals - Game Cutdown</title>
+  </programme>
+  <programme start="20201008190000 +0100" stop="20201008210000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA TV Film Room - NBA Finals</title>
+  </programme>
+  <programme start="20201008210000 +0100" stop="20201008220000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA On TNT - The Arena</title>
+  </programme>
+  <programme start="20201008220000 +0100" stop="20201008223000 +0100" channel="NBA.pt">
+    <title lang="pt">GM School</title>
+  </programme>
+  <programme start="20201008223000 +0100" stop="20201008230000 +0100" channel="NBA.pt">
+    <title lang="pt">1-On-1 With Caron Butler: Arne Duncan</title>
+  </programme>
+  <programme start="20201008230000 +0100" stop="20201009000000 +0100" channel="NBA.pt">
+    <title lang="pt">2020 NBA Finals - Game Cutdown</title>
+  </programme>
+  <programme start="20201009000000 +0100" stop="20201009020000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA TV Film Room - NBA Finals</title>
+  </programme>
+  <programme start="20201009020000 +0100" stop="20201009030000 +0100" channel="NBA.pt">
+    <title lang="pt">2020 WNBA Finals Postgame (Direto)</title>
+  </programme>
+  <programme start="20201009030000 +0100" stop="20201009033000 +0100" channel="NBA.pt">
+    <title lang="pt">GM School</title>
+  </programme>
+  <programme start="20201009033000 +0100" stop="20201009040000 +0100" channel="NBA.pt">
+    <title lang="pt">1-On-1 With Caron Butler: Arne Duncan</title>
+  </programme>
+  <programme start="20201009040000 +0100" stop="20201009050000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201009050000 +0100" stop="20201009070000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA TV Film Room - NBA Finals</title>
+  </programme>
+  <programme start="20201009070000 +0100" stop="20201009080000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201009080000 +0100" stop="20201009090000 +0100" channel="NBA.pt">
+    <title lang="pt">2020 NBA Finals - Game Cutdown</title>
+  </programme>
+  <programme start="20201009090000 +0100" stop="20201009100000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA On TNT - The Arena</title>
+  </programme>
+  <programme start="20201009100000 +0100" stop="20201009110000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201009110000 +0100" stop="20201009130000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA TV Film Room - NBA Finals</title>
+  </programme>
+  <programme start="20201009130000 +0100" stop="20201009140000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201009140000 +0100" stop="20201009143000 +0100" channel="NBA.pt">
+    <title lang="pt">GM School</title>
+  </programme>
+  <programme start="20201009143000 +0100" stop="20201009150000 +0100" channel="NBA.pt">
+    <title lang="pt">1-On-1 With Caron Butler: Arne Duncan</title>
+  </programme>
+  <programme start="20201009150000 +0100" stop="20201009160000 +0100" channel="NBA.pt">
+    <title lang="pt">2020 NBA Finals - Game Cutdown</title>
+  </programme>
+  <programme start="20201009160000 +0100" stop="20201009170000 +0100" channel="NBA.pt">
+    <title lang="pt">NBA GameTime</title>
+  </programme>
+  <programme start="20201009170000 +0100" stop="20201009190000 +0100" channel="NBA.pt">
+    <title lang="pt">2020 NBA Finals - Game Cutdown</title>
+  </programme>
+  <programme start="20201009190000 +0100" stop="20201009210000 +0100" channel="NBA.pt">
+    <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 1</title>
+  </programme>
+  <programme start="20201009210000 +0100" stop="20201009220000 +0100" channel="NBA.pt">
+    <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 2</title>
+  </programme>
+  <programme start="20201009220000 +0100" stop="20201010000000 +0100" channel="NBA.pt">
     <title lang="pt">30 For 30 - Celtics x Lakers - Best of Enemies Part 3</title>
   </programme>
 </tv>
